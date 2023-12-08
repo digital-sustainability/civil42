@@ -11,7 +11,7 @@
 # Innovation
 ## neuartiger und innovativer Inhalt
 
-«Hitobito» ist eine Open Source Software zur Verwaltung von Mitgliedern von Vereinen, Verbänden und Non-Profit Organisationen. Hinter der Software steckt das IT-Unternehmen Puzzle ITC. Puzzle möchte ermitteln, welche digitalen Bedürfnisse bei den Hitobito Users (bestehende und potentielle Kund*innen) zu erfüllen sind. Ziel dabei ist, die volle Zufriedenheit zu gewährleisten und Hitobito zu einem vollumfänglichen Open Source Tool weiterentwickeln zu können. Damit soll die Souveränität von ehrenamtlichen Organisationen im Bereich der Digitalisierung unterstützt und gestärkt werden.
+«Hitobito¹» ist eine Open Source Software zur Verwaltung von Mitgliedern von Vereinen, Verbänden und Non-Profit Organisationen. Hinter der Software steckt das IT-Unternehmen Puzzle ITC. Puzzle möchte ermitteln, welche digitalen Bedürfnisse bei den Hitobito Benutzern (bestehende und potentielle Kund*innen) zu erfüllen sind. Ziel dabei ist, die volle Zufriedenheit zu gewährleisten und Hitobito zu einem vollumfänglichen Open Source Tool weiterentwickeln zu können. Damit soll die Souveränität von ehrenamtlichen Organisationen im Bereich der Digitalisierung unterstützt und gestärkt werden.
 
 Denn die heutige Landschaft von eingesetzten digitalen Tools zur Organisation von Vereinen und anderen Non-Profit-Organisationen ist stark geprägt von proprietären Software-Lösungen, welche nur ein geringes Mass an s.g. digitaler Souveränität mit sich bringen. Dies führt zu einer starken Abhängigkeit zwischen Nutzenden und Anbietern auch bekannt als "Vendor bzw. Produkt Lock-In".
 
@@ -21,6 +21,8 @@ Wir wollen im Rahmen des Innovationsschecks prüfen, ob
  3. Es für den Bedarf in den jeweiligen Teilbereichen (Kommunizieren und Arbeiten, Dokumente & Datenablage, Projektmanagement, ...) offene (s.g. open source) Lösungen gibt, welche als Alternativen angeführt bzw. empfohlen werden können
 
 Ziel ist es die Souveränität von ehrenamtlichen Organisationen in Bezug auf Digitalisierung zu unterstützen und zu stärken.
+
+¹ https://hitobito.com
 
 ## Umsetzbarkeit der Resultate / Aufgabe des Forschungspartners
 
@@ -39,7 +41,7 @@ Im Anschluss an die Befragung soll eine Marktrecherche Aufschluss über möglich
 
 Zur Darstellung einer klaren Empfehlung pro Bedarf soll abschliessend die Skizzierung einer "Vereins Software-Ökosystem Architektur" mit Kopplung(en) und Schnittstellen der Lösungen untereinander erstellt werden.
 
-Zudem evaluieren die Engineers der Firma Puzzle die technische Machbarkeit der möglichen Anbindungen und schätzen den aufkommenden Aufwand. Sie klären die Finanzierung (bspw. mittels Crowdfunding der interessierten Users) .
+Zudem evaluieren die Engineers der Firma Puzzle die technische Machbarkeit der möglichen Anbindungen und schätzen den aufkommenden Aufwand. Sie klären die Finanzierung (bspw. mittels Crowdfunding der interessierten Users). Alle Ergebnisse und Inhalte werden unter freien CC-BY Lizenzen veröffentlicht.
 
 ## lieferbares Ergebnis
 ## Wettbewerbssituation
