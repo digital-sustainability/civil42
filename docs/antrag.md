@@ -46,18 +46,19 @@ Zudem evaluieren die Engineers der Firma Puzzle die technische Machbarkeit der m
 ## lieferbares Ergebnis
 ## Wettbewerbssituation
 
-Verschiedene Quellen (Kundengespräche, Zusammenstellungen [1] und Leitfäden [2]) zeigen den Schwerpunkt und Bedarf von digitalen Lösungen, welche in vielen Fällen proprietär sind.
+> What is the innovative content of the planned work compared to the current status of your own research and the competitive situation of the market? Has research been carried out (indicate the sources etc.)
 
-Puzzle ITC verfolgt bereits seit vielen Jahren einen anderen Weg, in dem sie grundsätzlich auf die Nutzung und Freigabe von Open Source Software setzen (s. [3]).
+Die Wettbewerbssituation auf dem Markt stufen wir, auf Basis verschiedener Quellen (Kundengespräche, Zusammenstellungen [1] und Leitfäden [2]), zur Zeit mit einem Schwerpunkt auf proprietären, digitalen Lösungen ein. Damit wird, in vielen Fällen, mindestens eine Grundvorraussetzung der digitalen Souveränität nicht erfüllt.
 
-Neben den eigenen Lösungen gibt es eine Vielzahl (s. zB [4]) weiterer digitale Alternativen welche einen souveräneren, quelloffenen Ansatz verfolgen.
+Puzzle verfolgt bereits seit vielen Jahren einen anderen Weg, in dem sie grundsätzlich auf die Nutzung und Freigabe von Open Source Software setzen [3]. Es fehlt aber das Zusammenspiel und die Anbindung anderer digitaler Lösungen und Ökosysteme.
 
-[1] https://www.vitamineb.ch/digital/
+Der innovative Ansatz besteht darin, diesen offenen Ansatz als grundlegendes Kriterium für die Recherchen und Empfehlungen vorauszusetzen.
 
-[2] https://stiftungdatenschutz.org/ehrenamt/praxisratgeber/praxisratgeber-detailseite/vereinsinterne-kommunikation-264
+Denn neben den eigenen Lösungen gibt es bereits eine Vielzahl [4] weiterer Alternativen welche einen souveräneren Ansatz verfolgen.
 
-[3] https://github.com/puzzle
-
+[1] https://vitamineb.ch/digital/ 
+[2] https://stiftungdatenschutz.org/ehrenamt/praxisratgeber/ 
+[3] https://github.com/puzzle 
 [4] https://alternativeto.net
 
 ## potenzieller Nutzen für den Umsetzungspartner
