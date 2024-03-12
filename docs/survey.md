@@ -30,9 +30,9 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 ### Gruppe 2: (digitale) Prozesse & Software-Tools
 
-#### Frage 2.1: Welches (digitale) Tool hat bei Ihnen in der internen Vereinsorganisation den grössten Impact und warum?
+#### Frage 2.1: Welche (digitalen) Tools haben bei Ihnen in der internen Vereinsorganisation den grössten Impact (und warum)?
 
-#### Frage 2.2: Welches (digitale) Tool hat bei Ihnen im Vereinsleben den grössten Impact und warum?
+#### Frage 2.2: Welche (digitalen) Tools haben bei Ihnen im Vereinsleben den grössten Impact (und warum)?
 
 #### Frage 2.3: Wo besteht der grösste Bedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
 
