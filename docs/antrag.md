@@ -58,6 +58,7 @@ Denn neben den eigenen Lösungen gibt es bereits eine Vielzahl [4] weiterer Alte
 
 [1] https://vitamineb.ch/digital/ 
 [2] https://stiftungdatenschutz.org/ehrenamt/praxisratgeber/ 
+    https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
 [3] https://github.com/puzzle 
 [4] https://alternativeto.net
 
