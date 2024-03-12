@@ -26,7 +26,7 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 #### Frage 1.3: Selbsteinschätzung - Grad der "Digitalisierung" in %?
 
-#### Frage 1.4: Kennen & Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)
+#### Frage 1.4: Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)
 
 ### Gruppe 2: (digitale) Prozesse & Software-Tools
 
