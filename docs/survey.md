@@ -43,5 +43,3 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 #### Frage 3.1: allgemeines Feedback
 
 #### Frage 3.2: Kontakt bei Abschluss?
-
-### Abschluss
