@@ -16,12 +16,36 @@ Herzlich willkommen zur Umfrage über die [digitale Souveränität](https://www.
 
 Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feedback trägt dazu bei, ein besseres Verständnis für die Herausforderungen und Bedürfnisse von Vereinen im digitalen Zeitalter zu gewinnen. Ihre Stimme ist wichtig für die Entwicklung von Lösungen, die Vereinen helfen können, ihre digitale Souveränität zu stärken. Wenn Sie weitere Fragen oder Anregungen haben, zögern Sie bitte nicht, uns zu kontaktieren. Nochmals vielen Dank für Ihre Teilnahme und Unterstützung!
 
-## Fragen
+## 12 Fragen 
 
-### Gruppe 1: 
+### Gruppe 1: Allgemeines & Verein
 
-### Gruppe 2: 
+#### Frage 1.1: Name / Webseite des Vereins
 
-### Gruppe 3: 
+#### Frage 1.2: Konzept "Digitale Souveränität" - Relevant (0 - 10)?
+
+#### Frage 1.3: Selbsteinschätzung - Grad der "Digitalisierung" in %?
+
+#### Frage 1.4: Kennen & Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)
+
+### Gruppe 2: (digitale) Prozesse & Software-Tools
+
+#### Frage 2.1: Welches (digitale) Tool hat bei Ihnen in der internen Vereinsorganisation den grössten Impact und warum?
+
+#### Frage 2.2: Welches (digitale) Tool hat bei Ihnen im Vereinsleben den grössten Impact und warum?
+
+#### Frage 2.3: Wo besteht der grösste Bedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
+
+#### Frage 2.4: Wo besteht der grösste Bedarf einer besseren Integration von bestehenden Tools?
+
+### Gruppe 3: Abschluss
+
+#### Frage 3.1: [...]
+
+#### Frage 3.2: [...]
+
+#### Frage 3.3: [...]
+
+#### Frage 3.4: allgemeines Feedback
 
 ### Abschluss
