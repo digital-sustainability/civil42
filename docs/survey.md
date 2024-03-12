@@ -16,7 +16,7 @@ Herzlich willkommen zur Umfrage über die [digitale Souveränität](https://www.
 
 Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feedback trägt dazu bei, ein besseres Verständnis für die Herausforderungen und Bedürfnisse von Vereinen im digitalen Zeitalter zu gewinnen. Ihre Stimme ist wichtig für die Entwicklung von Lösungen, die Vereinen helfen können, ihre digitale Souveränität zu stärken. Wenn Sie weitere Fragen oder Anregungen haben, zögern Sie bitte nicht, uns zu kontaktieren. Nochmals vielen Dank für Ihre Teilnahme und Unterstützung!
 
-## 12 Fragen 
+## 10 Fragen 
 
 ### Gruppe 1: Allgemeines & Verein
 
@@ -40,12 +40,8 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 ### Gruppe 3: Abschluss
 
-#### Frage 3.1: [...]
+#### Frage 3.1: allgemeines Feedback
 
-#### Frage 3.2: [...]
-
-#### Frage 3.3: [...]
-
-#### Frage 3.4: allgemeines Feedback
+#### Frage 3.2: Kontakt bei Abschluss?
 
 ### Abschluss
