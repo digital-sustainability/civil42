@@ -4,7 +4,7 @@
 
 ### Beschreibung
 
-Diese Umfrage konzentriert sich auf das Thema der [digitalen Souveränität](https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html) von Vereinen. Wir möchten mehr über die **aktuellen Kenntnisse, Bedürfnisse und Herausforderungen von Vereinen im Umgang mit digitalen Technologien erfahren**. Ihre Teilnahme an dieser kurzen Umfrage (ca. 5 Minuten) hilft uns, ein **besseres Verständnis für die digitale Landschaft von Vereinen** zu gewinnen und mögliche Lösungsansätze zu identifizieren.
+Diese Umfrage konzentriert sich auf das Thema der [digitalen Souveränität](https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html) von Vereinen. Wir möchten mehr über die **aktuellen Kenntnisse, Bedürfnisse und Herausforderungen von Vereinen im Umgang mit digitalen Technologien erfahren**. Ihre Teilnahme an dieser kurzen Umfrage (ca. 5-10 Minuten) hilft uns, ein **besseres Verständnis für die digitale Landschaft von Vereinen** zu gewinnen und mögliche Lösungsansätze zu identifizieren.
 
 Die Umfrage wird im Rahmen eines Innosuisse Innovationsscheck Projektes "[civil42](https://digital-sustainability.github.io/civil42/)" von der Berner Fachhochschule sowie der Firma [Puzzle ITC](https://www.puzzle.ch) durchgeführt. Die erhobenen Daten werden im Anschluss anonymisiert unter freien Lizenzen veröffentlicht. Den Einsatz zu Werbezwecken ist explizit ausgeschlossen.
 
