@@ -14,8 +14,6 @@ Die Umfrage wird im Rahmen eines Innosuisse Innovationsscheck Projektes "[civil4
 
 Vielen Dank, dass Sie sich die Zeit nehmen, um an dieser wichtigen Untersuchung teilzunehmen. Ihre Meinung ist von hohem Wert, um ein umfassendes Bild darüber zu erhalten, wie Vereine digitale Technologien nutzen und welche Unterstützung sie benötigen, um ihre digitale Souveränität zu stärken.
 
-Ihre Antworten werden anonym behandelt und ausschließlich zu Forschungszwecken verwendet. Bitte beantworten Sie die Fragen so ehrlich und detailliert wie möglich. Vielen Dank für Ihre Teilnahme!
-
 ### Endnachricht
 
 Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feedback trägt dazu bei, ein besseres Verständnis für die Herausforderungen und Bedürfnisse von Vereinen im digitalen Zeitalter zu gewinnen. Ihre Stimme ist wichtig für die Entwicklung von Lösungen, die Vereinen helfen können, ihre digitale Souveränität zu stärken. 
