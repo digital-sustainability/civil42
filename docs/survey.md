@@ -22,7 +22,7 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 #### Frage 1.1: Webseite des Vereins
 
-#### Frage 1.2: Konzept "Digitale Souveränität" - Bekannt / Relevant / Angewandt (0 - 10)?
+#### Frage 1.2: In wie fern ist das Konzept "[Digitale Souveränität](https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html)" bei Ihnen... - Bekannt / Relevant / Angewandt (0 - 10)?
 
 #### Frage 1.3: Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)?
 
