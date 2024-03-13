@@ -34,7 +34,7 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 #### Frage 2.2: Welche (digitalen) Tools haben bei Ihnen im Vereinsleben den grössten Impact (und warum)?
 
-#### Frage 2.3: Wo besteht der grösste Bedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
+#### Frage 2.3: Wo besteht der grösste Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
 
 #### Frage 2.4: Wo besteht der grösste Bedarf einer besseren Integration von bestehenden Tools?
 
