@@ -112,7 +112,7 @@
     <preg/>
     <help><![CDATA[<p>1 - überhaupt nicht bekannt, relevant bzw. angewandt</p>
 
-<p>10 - bekannt, relevant und angewandt</p>
+<p>10 - vollständig bekannt, relevant und angewandt</p>
 ]]></help>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
