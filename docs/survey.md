@@ -20,19 +20,21 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 ### Gruppe 1: Allgemeines & Verein
 
-#### Frage 1.1: Name / Webseite des Vereins
+#### Frage 1.1: Webseite des Vereins
 
-#### Frage 1.2: Konzept "Digitale Souveränität" - Relevant (0 - 10)?
+#### Frage 1.2: Konzept "Digitale Souveränität" - Bekannt / Relevant / Angewandt (0 - 10)?
 
-#### Frage 1.3: Selbsteinschätzung - Grad der "Digitalisierung" in %?
+#### Frage 1.3: Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)?
 
-#### Frage 1.4: Nutzen Sie bereits Empfehlungen wie bspw. [vitaminB](https://vitamineb.ch/digital/) oder der [DSEE](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/)?
+#### Frage 1.4: Selbsteinschätzung - Digital pro Kategorie
 
-### Gruppe 2: (digitale) Prozesse & Software-Tools
+### Gruppe 2: (digitale) Prozesse & Software-Tools: Impact
 
 #### Frage 2.1: Welche (digitalen) Tools haben bei Ihnen in der internen Vereinsorganisation den grössten Impact (und warum)?
 
 #### Frage 2.2: Welche (digitalen) Tools haben bei Ihnen im Vereinsleben den grössten Impact (und warum)?
+
+### Gruppe 2: (digitale) Prozesse & Software-Tools: Handlungsbedarf
 
 #### Frage 2.3: Wo besteht der grösste Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
 
@@ -42,4 +44,4 @@ Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feed
 
 #### Frage 3.1: allgemeines Feedback
 
-#### Frage 3.2: Kontakt bei Abschluss?
+#### Frage 3.2: Kontaktdaten bei Abschluss
