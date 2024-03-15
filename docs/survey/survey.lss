@@ -92,7 +92,7 @@
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -115,7 +115,7 @@
 <p>10 - vollständig bekannt, relevant und angewandt</p>
 ]]></help>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -134,8 +134,8 @@
 ]]></question>
     <preg/>
     <help><![CDATA[Bitte Option ankreuzen, wenn ein digitaler Prozess existiert und als Kommentar die Software die zum Einsatz kommt.]]></help>
-    <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -155,7 +155,7 @@
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -170,12 +170,12 @@
     <gid><![CDATA[5772]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0201]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>in der internen Vereinsorganisation den grössten Impact (und warum)</strong></u>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>in der internen Vereinsorganisation</strong></u> den grössten Impact (und warum)?</h4>
 ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -190,12 +190,12 @@
     <gid><![CDATA[5772]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0202]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>im Vereinsleben den grössten Impact (und warum)</strong></u>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>im Vereinsleben</strong></u> den grössten Impact (und warum)?</h4>
 ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -210,12 +210,12 @@
     <gid><![CDATA[5773]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0301]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der <u><strong>grösste Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software</strong></u>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der grösste Handlungsbedarf <u><strong>an einem (digitalen, automatisierten) Prozess</strong></u> bzw. Software?</h4>
 ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -230,12 +230,12 @@
     <gid><![CDATA[5773]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0302]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der <u><strong>grösste Handlungsbedarf einer besseren Integration von bestehenden Tools</strong></u>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der grösste Handlungsbedarf <u><strong>einer besseren Integration von bestehenden Tools</strong></u>?</h4>
 ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -364,7 +364,7 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Relevant]]></question>
+    <question><![CDATA[Als relevant eingestuft]]></question>
     <help/>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[2]]></question_order>
@@ -551,29 +551,13 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Angewandt]]></question>
+    <question><![CDATA[Angewandt und gelebt]]></question>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
     <relevance><![CDATA[1]]></relevance>
-    <modulename/>
-   </row>
-   <row>
-    <qid><![CDATA[62959]]></qid>
-    <parent_qid><![CDATA[62932]]></parent_qid>
-    <sid><![CDATA[134196]]></sid>
-    <gid><![CDATA[5770]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ013]]></title>
-    <question><![CDATA[Andere]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[14]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-    <relevance/>
     <modulename/>
    </row>
    <row>
@@ -590,21 +574,6 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
     <relevance><![CDATA[1]]></relevance>
-   </row>
-   <row>
-    <qid><![CDATA[63001]]></qid>
-    <parent_qid><![CDATA[62970]]></parent_qid>
-    <sid><![CDATA[134196]]></sid>
-    <gid><![CDATA[5774]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Nein, danke]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-    <relevance/>
    </row>
    <row>
     <qid><![CDATA[63061]]></qid>
@@ -698,7 +667,7 @@
     <usecookie><![CDATA[N]]></usecookie>
     <allowregister><![CDATA[N]]></allowregister>
     <allowsave><![CDATA[N]]></allowsave>
-    <autonumber_start><![CDATA[0]]></autonumber_start>
+    <autonumber_start><![CDATA[2]]></autonumber_start>
     <autoredirect><![CDATA[N]]></autoredirect>
     <allowprev><![CDATA[Y]]></allowprev>
     <printanswers><![CDATA[N]]></printanswers>
