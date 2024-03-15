@@ -7,4 +7,4 @@ Wir wollen im Rahmen eines Innovationsschecks prüfen, ob
  2. Wo Bedarf an digitalen Lösungen und Anbindungen besteht und welche Software zum Einsatz kommt
  3. Es für den Bedarf in den jeweiligen Teilbereichen (Kommunizieren und Arbeiten, Dokumente & Datenablage, Projektmanagement, ...) offene (s.g. open source) Lösungen gibt, welche als Alternativen angeführt bzw. empfohlen werden können
 
-Ziel ist es die Souveränität von ehrenamtlichen Organisationen in Bezug auf Digitalisierung zu unterstützen und zu stärken.
+Ziel ist es die Souveränität von [ehrenamtlichen Organisationen in Bezug auf Digitalisierung](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/) zu unterstützen und zu stärken.
