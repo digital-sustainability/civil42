@@ -87,12 +87,12 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[Q0101]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Webseite des Vereins</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Webseite (URL) des Vereins:</h4>
 ]]></question>
     <preg/>
-    <help/>
+    <help><![CDATA[z.B. https://www.example.com]]></help>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[Y]]></mandatory>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -107,12 +107,12 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[B]]></type>
     <title><![CDATA[Q0102]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">In wie fern ist das Konzept "<a href="https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html" rel="nofollow">Digitale Souveränität</a>" bei Ihnen...</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Das Konzept "<a href="https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html" rel="nofollow">Digitale Souveränität</a>" ist bei unserem Verein sehr...</h4>
 ]]></question>
     <preg/>
-    <help><![CDATA[<p>1 - überhaupt nicht bekannt, relevant bzw. angewandt</p>
+    <help><![CDATA[<p>1:  <strong>Trifft gar nicht zu</strong></p>
 
-<p>10 - vollständig bekannt, relevant und angewandt</p>
+<p>10: <strong>Trifft vollständig zu</strong></p>
 ]]></help>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[Y]]></mandatory>
@@ -130,10 +130,10 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[Q0104]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Selbstauskunft - Grad der "Digitalisierung"</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Selbstauskunft zum Grad der "Digitalisierung": Bitte jeden Teilbereich ankreuzen, wenn ein digitaler Prozess existiert und als Kommentar die Software / die Tools die zum Einsatz kommt bzw. kommen.</h4>
 ]]></question>
     <preg/>
-    <help><![CDATA[Bitte Option ankreuzen, wenn ein digitaler Prozess existiert und als Kommentar die Software die zum Einsatz kommt.]]></help>
+    <help><![CDATA[z.B. [x] Kommunizieren: MS Teams, WhatsApp, ...]]></help>
     <other><![CDATA[Y]]></other>
     <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
@@ -150,7 +150,7 @@
     <gid><![CDATA[5770]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[Q0103]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Nutzen Sie bereits Empfehlungen wie bspw. <a href="https://vitamineb.ch/digital/" rel="nofollow">vitaminB</a> oder der <a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/" rel="nofollow">DSEE</a>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Nutzen Sie bereits Empfehlungen wie bspw. <a href="https://vitamineb.ch/digital/" rel="nofollow">der Fachstelle für Vereine</a> (vitaminB) oder der <a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/" rel="nofollow">Deutschen Stiftung für Engagement und Ehrenamt</a> (DSEE) ?</h4>
 ]]></question>
     <preg/>
     <help/>
@@ -170,10 +170,10 @@
     <gid><![CDATA[5772]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0201]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>in der internen Vereinsorganisation</strong></u> den grössten Impact (und warum)?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>in der internen Vereinsorganisation</strong></u> grossen Impact (und warum)?</h4>
 ]]></question>
     <preg/>
-    <help/>
+    <help><![CDATA[Oder anders gefragt: Welche digitalen Tools würden <u><strong>in der internen Vereinsorganisation</strong></u> die grösste Lücke hinterlassen, wenn sie nicht mehr verfügbar wären?]]></help>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[0]]></question_order>
@@ -190,10 +190,10 @@
     <gid><![CDATA[5772]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0202]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>im Vereinsleben</strong></u> den grössten Impact (und warum)?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>im Vereinsleben</strong></u> grossen Impact (und warum)?</h4>
 ]]></question>
     <preg/>
-    <help/>
+    <help><![CDATA[Oder anders gefragt: Welche digitalen Tools würden <u><strong>im Vereinsleben</strong></u> die grösste Lücke hinterlassen, wenn sie nicht mehr verfügbar wären?]]></help>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -210,7 +210,7 @@
     <gid><![CDATA[5773]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0301]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der grösste Handlungsbedarf <u><strong>an einem (digitalen, automatisierten) Prozess</strong></u> bzw. Software?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht grosser Handlungsbedarf <u><strong>an einem (digitalen, automatisierten) Prozess</strong></u> bzw. Software?</h4>
 ]]></question>
     <preg/>
     <help/>
@@ -230,7 +230,7 @@
     <gid><![CDATA[5773]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[Q0302]]></title>
-    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht der grösste Handlungsbedarf <u><strong>einer besseren Integration von bestehenden Tools</strong></u>?</h4>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht grosser Handlungsbedarf <u><strong>einer besseren Integration von bestehenden Tools</strong></u>?</h4>
 ]]></question>
     <preg/>
     <help/>
@@ -741,6 +741,8 @@
 <p dir="auto">Die Umfrage wird im Rahmen eines Innosuisse Innovationsscheck Projektes "<a href="https://digital-sustainability.github.io/civil42/" rel="nofollow">civil42</a>" von der Berner Fachhochschule sowie der Firma <a href="https://www.puzzle.ch/" rel="nofollow">Puzzle ITC</a> durchgeführt. Die erhobenen Daten werden im Anschluss anonymisiert unter freien Lizenzen veröffentlicht. Den Einsatz zu Werbezwecken ist explizit ausgeschlossen.</p>
 ]]></surveyls_description>
     <surveyls_welcometext><![CDATA[<p>Vielen Dank, dass Sie sich die Zeit nehmen, um an dieser wichtigen Untersuchung teilzunehmen. Ihre Meinung ist von hohem Wert, um ein umfassendes Bild darüber zu erhalten, wie Vereine digitale Technologien nutzen und welche Unterstützung sie benötigen, um ihre digitale Souveränität zu stärken.</p>
+
+<p>Pflichtangaben sind mit einem roten Stern <span style="font-size:18px;"><span style="color:#FF0000;"><strong>*</strong></span></span> am Anfang der Frage markiert.</p>
 ]]></surveyls_welcometext>
     <surveyls_endtext><![CDATA[<p>Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feedback trägt dazu bei, ein besseres Verständnis für die Herausforderungen und Bedürfnisse von Vereinen im digitalen Zeitalter zu gewinnen. Ihre Stimme ist wichtig für die Entwicklung von Lösungen, die Vereinen helfen können, ihre digitale Souveränität zu stärken.</p>
 
