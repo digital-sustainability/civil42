@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>260</DBVersion>
+ <languages>
+  <language>de</language>
+ </languages>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[5770]]></gid>
+    <sid><![CDATA[134196]]></sid>
+    <group_name><![CDATA[Allgemeines & Verein]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[5772]]></gid>
+    <sid><![CDATA[134196]]></sid>
+    <group_name><![CDATA[(digitale) Prozesse & Software-Tools: Impact]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[5773]]></gid>
+    <sid><![CDATA[134196]]></sid>
+    <group_name><![CDATA[(digitale) Prozesse & Software-Tools: Handlungsbedarf]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[5774]]></gid>
+    <sid><![CDATA[134196]]></sid>
+    <group_name><![CDATA[Abschluss]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[62930]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Q0101]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Webseite (URL) des Vereins:</h4>
+]]></question>
+    <preg/>
+    <help><![CDATA[z.B. https://www.example.com]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62931]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[B]]></type>
+    <title><![CDATA[Q0102]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Das Konzept "<a href="https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html" rel="nofollow">Digitale Souveränität</a>" ist bei unserem Verein sehr...</h4>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>1:  <strong>Trifft gar nicht zu</strong></p>
+
+<p>10: <strong>Trifft vollständig zu</strong></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62932]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[Q0104]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Selbstauskunft zum Grad der "Digitalisierung": Bitte jeden Teilbereich ankreuzen, wenn ein digitaler Prozess existiert und als Kommentar die Software / die Tools die zum Einsatz kommt bzw. kommen.</h4>
+]]></question>
+    <preg/>
+    <help><![CDATA[z.B. [x] Kommunizieren: MS Teams, WhatsApp, ...]]></help>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62933]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Q0103]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Nutzen Sie bereits Empfehlungen wie bspw. <a href="https://vitamineb.ch/digital/" rel="nofollow">der Fachstelle für Vereine</a> (vitaminB) oder der <a href="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/" rel="nofollow">Deutschen Stiftung für Engagement und Ehrenamt</a> (DSEE) ?</h4>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62965]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5772]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Q0201]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>in der internen Vereinsorganisation</strong></u> grossen Impact (und warum)?</h4>
+]]></question>
+    <preg/>
+    <help><![CDATA[Oder anders gefragt: Welche digitalen Tools würden <u><strong>in der internen Vereinsorganisation</strong></u> die grösste Lücke hinterlassen, wenn sie nicht mehr verfügbar wären?]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62966]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5772]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Q0202]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Welche (digitalen) Tools haben bei Ihnen <u><strong>im Vereinsleben</strong></u> grossen Impact (und warum)?</h4>
+]]></question>
+    <preg/>
+    <help><![CDATA[Oder anders gefragt: Welche digitalen Tools würden <u><strong>im Vereinsleben</strong></u> die grösste Lücke hinterlassen, wenn sie nicht mehr verfügbar wären?]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62967]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5773]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Q0301]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht grosser Handlungsbedarf <u><strong>an einem (digitalen, automatisierten) Prozess</strong></u> bzw. Software?</h4>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62968]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5773]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Q0302]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Wo besteht grosser Handlungsbedarf <u><strong>einer besseren Integration von bestehenden Tools</strong></u>?</h4>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62969]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5774]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Q0401]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">allgemeines Feedback</h4>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62970]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5774]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[Q0402]]></title>
+    <question><![CDATA[<h4 dir="auto" tabindex="-1">Sind Sie an den Ergebnissen und der Auswertung im Anschluss der Umfrage (ca. Q3 2024) interessiert?</h4>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[62934]]></qid>
+    <parent_qid><![CDATA[62931]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Bekannt]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62935]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Kommunizieren]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62936]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Vereinsaktivitäten organisieren]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62937]]></qid>
+    <parent_qid><![CDATA[62931]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Als relevant eingestuft]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62938]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Termine planen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62939]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Dokumente gemeinsam bearbeiten]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62940]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Vereinssoftware]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62941]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Clouds (Datenablage)]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62942]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Projektmanagement-Tools]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62943]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[Quiz, Umfragen & Abstimmungen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62944]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ009]]></title>
+    <question><![CDATA[Ideen sammeln & kreativ gestalten]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62945]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ010]]></title>
+    <question><![CDATA[Videos, Designs und Podcasts kreieren]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[11]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62946]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ011]]></title>
+    <question><![CDATA[Video-Konferenzen & Online-Meetings]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[12]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62947]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ012]]></title>
+    <question><![CDATA[Websites, Video-Tutorials, Unterlagen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[13]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[62958]]></qid>
+    <parent_qid><![CDATA[62931]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Angewandt und gelebt]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[63000]]></qid>
+    <parent_qid><![CDATA[62970]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5774]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ja, gerne meine eMail-Adresse lautet:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[63061]]></qid>
+    <parent_qid><![CDATA[62932]]></parent_qid>
+    <sid><![CDATA[134196]]></sid>
+    <gid><![CDATA[5770]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ014]]></title>
+    <question><![CDATA[Arbeiten planen]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[134196]]></sid>
+    <admin><![CDATA[Markus Tiede]]></admin>
+    <adminemail><![CDATA[markus.tiede@bfh.ch]]></adminemail>
+    <anonymized><![CDATA[Y]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[bfh]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[N]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[N]]></allowsave>
+    <autonumber_start><![CDATA[2]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[markus.tiede@bfh.ch]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[0]]></googleanalyticsstyle>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[134196]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Digitale Souveränität von Vereinen]]></surveyls_title>
+    <surveyls_description><![CDATA[<p dir="auto">Herzlich willkommen zur Umfrage zur <a href="https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html" rel="nofollow">digitalen Souveränität</a> von Vereinen!</p>
+
+<p dir="auto">Wir möchten mehr über die <strong>aktuellen Kenntnisse, Bedürfnisse und Herausforderungen von Vereinen im Umgang mit digitalen Technologien erfahren</strong>. Ihre Teilnahme an dieser kurzen Umfrage (ca. 5 - 10 Minuten) hilft uns, ein <strong>besseres Verständnis für die digitale Landschaft von Vereinen zu gewinnen</strong> und mögliche Lösungsansätze zu identifizieren.</p>
+
+<p dir="auto">Die Umfrage wird im Rahmen eines Innosuisse Innovationsscheck Projektes "<a href="https://digital-sustainability.github.io/civil42/" rel="nofollow">civil42</a>" von der Berner Fachhochschule sowie der Firma <a href="https://www.puzzle.ch/" rel="nofollow">Puzzle ITC</a> durchgeführt. Die erhobenen Daten werden im Anschluss anonymisiert unter freien Lizenzen veröffentlicht. Den Einsatz zu Werbezwecken ist explizit ausgeschlossen.</p>
+]]></surveyls_description>
+    <surveyls_welcometext><![CDATA[<p>Vielen Dank, dass Sie sich die Zeit nehmen, um an dieser wichtigen Untersuchung teilzunehmen. Ihre Meinung ist von hohem Wert, um ein umfassendes Bild darüber zu erhalten, wie Vereine digitale Technologien nutzen und welche Unterstützung sie benötigen, um ihre digitale Souveränität zu stärken.</p>
+
+<p>Pflichtangaben sind mit einem roten Stern <span style="font-size:18px;"><span style="color:#FF0000;"><strong>*</strong></span></span> am Anfang der Frage markiert.</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Vielen Dank, dass Sie an unserer Umfrage teilgenommen haben! Ihr wertvolles Feedback trägt dazu bei, ein besseres Verständnis für die Herausforderungen und Bedürfnisse von Vereinen im digitalen Zeitalter zu gewinnen. Ihre Stimme ist wichtig für die Entwicklung von Lösungen, die Vereinen helfen können, ihre digitale Souveränität zu stärken.</p>
+
+<p>Wenn Sie weitere Fragen oder Anregungen haben, zögern Sie bitte nicht, uns zu kontaktieren. Nochmals vielen Dank für Ihre Teilnahme und Unterstützung!</p>
+]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />
+{RELOADURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />
+{RELOADURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>
