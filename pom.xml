@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>ch.bfh.ipst.dsl</groupId>
+  <artifactId>civil42</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>civil42</name>
+  <url>https://github.com/digital-sustainability/civil42</url>
+
+  <properties>
+        <asciidoctor-maven-plugin.version>3.0.0</asciidoctor-maven-plugin.version>
+        <asciidoctorj.version>2.5.12</asciidoctorj.version>
+        <asciidoctorj-pdf.version>2.3.15</asciidoctorj-pdf.version>
+        <asciidoctorj-pdf.plugin.version>2.3.15</asciidoctorj-pdf.plugin.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+      <dependency>
+          <groupId>org.asciidoctor</groupId>
+          <artifactId>asciidoctorj</artifactId>
+          <version>${asciidoctorj.version}</version>
+      </dependency>
+      <dependency>
+          <groupId>org.asciidoctor</groupId>
+          <artifactId>asciidoctorj-pdf</artifactId>
+          <version>${asciidoctorj-pdf.version}</version>
+      </dependency>
+  </dependencies>
+
+  <build>
+        <plugins>
+            <plugin>
+                <groupId>org.asciidoctor</groupId>
+                <artifactId>asciidoctor-maven-plugin</artifactId>
+                <version>${asciidoctor-maven-plugin.version}</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.asciidoctor</groupId>
+                        <artifactId>asciidoctorj-pdf</artifactId>
+                        <version>${asciidoctorj-pdf.plugin.version}</version>
+                    </dependency>
+                </dependencies>
+                <executions>
+                    <execution> 
+                        <id>output-html</id>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>process-asciidoc</goal>
+                        </goals>
+                        <configuration>
+                            <backend>html</backend>
+                            <attributes>
+                                <toc/>
+                                <linkcss>false</linkcss>
+                                <source-highlighter>coderay</source-highlighter>
+                                <imagesdir>images</imagesdir>
+                            </attributes>
+                            <outputDirectory>target/docs/html</outputDirectory>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>output-pdf</id>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>process-asciidoc</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <id>asciidoc-to-docbook</id>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>process-asciidoc</goal>
+                        </goals>
+                        <configuration>
+                            <backend>docbook</backend>
+                            <doctype>book</doctype>
+                            <attributes>
+                                <imagesdir>images</imagesdir>
+                            </attributes>
+                            <outputDirectory>target/docs/docbook</outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+                <configuration>
+                    <backend>pdf</backend>
+                    <doctype>book</doctype>
+                    <outputDirectory>target/docs/pdf</outputDirectory>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <executions>
+                    <execution>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                <executable>pandoc</executable>
+                <!-- optional -->
+                <workingDirectory>target</workingDirectory>
+                <arguments>
+                    <argument>-f</argument>
+                    <argument>docbook</argument>
+                    <argument>-s</argument>
+                    <argument>docs/docbook/arc42.xml</argument>
+                    <argument>-o</argument>
+                    <argument>docs/arc42.docx</argument>
+                </arguments>
+                <environmentVariables>
+                    <LANG>de_DE</LANG>
+                </environmentVariables>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
