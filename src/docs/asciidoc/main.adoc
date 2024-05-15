@@ -67,15 +67,15 @@ include::04_solution_strategy.adoc[]
 
 <<<<
 // 5. Bausteinsicht
-include::05_building_block_view.adoc[]
+// include::05_building_block_view.adoc[]
 
 <<<<
 // 6. Laufzeitsicht
-include::06_runtime_view.adoc[]
+// include::06_runtime_view.adoc[]
 
 <<<<
 // 7. Verteilungssicht
-include::07_deployment_view.adoc[]
+// include::07_deployment_view.adoc[]
 
 <<<<
 // 8. Querschnittliche Konzepte
