@@ -87,6 +87,12 @@
                     </execution>
                 </executions>
                 <configuration>
+                    <logHandler>
+                        <outputToConsole>false</outputToConsole>
+                        <failIf>
+                            <severity>ERROR</severity>
+                        </failIf>
+                    </logHandler>
                     <backend>pdf</backend>
                     <doctype>book</doctype>
                     <outputDirectory>target/docs/pdf</outputDirectory>
