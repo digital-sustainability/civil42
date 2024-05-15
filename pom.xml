@@ -125,9 +125,9 @@
                     <argument>-f</argument>
                     <argument>docbook</argument>
                     <argument>-s</argument>
-                    <argument>docs/docbook/arc42.xml</argument>
+                    <argument>docs/docbook/main.xml</argument>
                     <argument>-o</argument>
-                    <argument>docs/arc42.docx</argument>
+                    <argument>docs/main.docx</argument>
                 </arguments>
                 <environmentVariables>
                     <LANG>de_DE</LANG>
