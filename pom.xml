@@ -87,9 +87,22 @@
                     </execution>
                 </executions>
                 <configuration>
+                    <sourceDirectory>src/docs/asciidoc/</sourceDirectory>
+                    <logHandler>
+                        <outputToConsole>true</outputToConsole>
+                        <failIf>
+                            <severity>ERROR</severity>
+                        </failIf>
+                    </logHandler>
                     <backend>pdf</backend>
                     <doctype>book</doctype>
                     <outputDirectory>target/docs/pdf</outputDirectory>
+                     <!-- Attributes common to all output formats -->
+                    <attributes>
+                        <endpoint-url>https://github.com/digital-sustainability/civil42</endpoint-url>
+                        <sourcedir>${project.build.sourceDirectory}</sourcedir>
+                        <project-version>${project.version}</project-version>
+                    </attributes>
                 </configuration>
             </plugin>
             <plugin>
@@ -112,9 +125,9 @@
                     <argument>-f</argument>
                     <argument>docbook</argument>
                     <argument>-s</argument>
-                    <argument>docs/docbook/arc42.xml</argument>
+                    <argument>docs/docbook/main.xml</argument>
                     <argument>-o</argument>
-                    <argument>docs/arc42.docx</argument>
+                    <argument>docs/main.docx</argument>
                 </arguments>
                 <environmentVariables>
                     <LANG>de_DE</LANG>
