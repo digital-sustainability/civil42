@@ -3,27 +3,32 @@ ifndef::imagesdir[:imagesdir: ../images]
 [[section-concepts]]
 == Querschnittliche Aspekte
 
-=== Standards
+=== Formate
 
 :leveloffset: +3
 
-include::08/standards/camt.adoc[]
-include::08/standards/ics.adoc[]
+include::08/format/camt.adoc[]
+
+include::08/format/csv.adoc[]
+
+include::08/format/excel.adoc[]
+
+include::08/format/ics.adoc[]
+
+include::08/format/oidc.adoc[]
+
+include::08/format/pdf.adoc[]
 
 :leveloffset: -3
 
 === Konzepte
 
-==== _<Konzept 1>_
+:leveloffset: +3
 
-_<Erklärung>_
+include::08/konzept/dina.adoc[]
 
-==== _<Konzept 2>_
+include::08/konzept/disou.adoc[]
 
-_<Erklärung>_
+:leveloffset: -3
 
-...
-
-==== _<Konzept n>_
-
-_<Erklärung>_
+=== Standards

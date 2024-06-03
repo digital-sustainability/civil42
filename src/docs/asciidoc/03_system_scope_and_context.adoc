@@ -53,31 +53,22 @@ Der Titel gibt den Namen Ihres Systems wieder; die drei Spalten sind: Kommunikat
 
 === Technischer Kontext
 
-[role="arc42help"]
-****
-.Inhalt
-Technische Schnittstellen (Kanäle, Übertragungsmedien) zwischen dem System und seiner Umwelt.
-Zusätzlich eine Erklärung (_mapping_), welche fachlichen Ein- und Ausgaben über welche technischen Kanäle fließen.
-
-.Motivation
-Viele Stakeholder treffen Architekturentscheidungen auf Basis der technischen Schnittstellen des Systems zu seinem Kontext.
-
-Insbesondere bei der Entwicklung von Infrastruktur oder Hardware sind diese technischen Schnittstellen durchaus entscheidend.
-
-.Form
-Beispielsweise UML Deployment-Diagramme mit den Kanälen zu Nachbarsystemen, begleitet von einer Tabelle, die Kanäle auf Ein-/Ausgaben abbildet.
-****
-
-**<Diagramm oder Tabelle>**
-
-**<optional: Erläuterung der externen technischen Schnittstellen>**
-
-**<Mapping fachliche auf technische Schnittstellen>**
-
 :leveloffset: +3
 
-include::03/hitobito.adoc[]
-include::03/nextcloud.adoc[]
-include::03/outlook.adoc[]
+include::03/02/google_kalender.adoc[]
+
+include::03/02/hitobito.adoc[]
+
+include::03/02/nextcloud.adoc[]
+
+include::03/02/openproject.adoc[]
+
+include::03/02/outlook.adoc[]
+
+include::03/02/strapi.adoc[]
+
+include::03/02/typo.adoc[]
+
+include::03/02/wordpress.adoc[]
 
 :leveloffset: -3
