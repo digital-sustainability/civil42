@@ -8,6 +8,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 :leveloffset: +3
 
 include::08/standards/camt.adoc[]
+include::08/standards/ics.adoc[]
 
 :leveloffset: -3
 
