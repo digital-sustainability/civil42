@@ -102,6 +102,7 @@
                         <endpoint-url>https://github.com/digital-sustainability/civil42</endpoint-url>
                         <sourcedir>${project.build.sourceDirectory}</sourcedir>
                         <project-version>${project.version}</project-version>
+                        <allow-uri-read>true</allow-uri-read>
                     </attributes>
                 </configuration>
             </plugin>
