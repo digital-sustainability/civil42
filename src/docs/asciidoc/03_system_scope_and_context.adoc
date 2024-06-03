@@ -74,4 +74,9 @@ Beispielsweise UML Deployment-Diagramme mit den Kanälen zu Nachbarsystemen, beg
 
 **<Mapping fachliche auf technische Schnittstellen>**
 
+:leveloffset: +3
+
 include::03/hitobito.adoc[]
+include::03/nextcloud.adoc[]
+
+:leveloffset: -3

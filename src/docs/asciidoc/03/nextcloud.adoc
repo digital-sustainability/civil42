@@ -1,0 +1,10 @@
+= Nextcloud
+
+[source,wikipedia]
+----
+include::https://jqp.vercel.app/api/v0?url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DNextcloud&jq=.query.pages%5B%5D.extract[lines=1..-1]
+----
+
+.Nextcloud Server OpenSSF Badge 
+[#img-nextcloud-badge,link=https://www.bestpractices.dev/projects/209] 
+image::https://www.bestpractices.dev/projects/209/badge[]
