@@ -13,6 +13,7 @@ include::config.adoc[]
 :revremark: Entwurf
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Digitale Souveränität von Vereinen
+:toclevels: 4
 
 //additional style for arc42 help callouts
 ifdef::backend-html5[]
