@@ -99,6 +99,8 @@ include::03/02/findmind.adoc[]
 
 include::03/02/flinga.adoc[]
 
+include::03/02/framadate.adoc[]
+
 include::03/02/frontapp.adoc[]
 
 include::03/02/google_docs.adoc[]
