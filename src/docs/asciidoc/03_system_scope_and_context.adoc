@@ -55,9 +55,19 @@ Der Titel gibt den Namen Ihres Systems wieder; die drei Spalten sind: Kommunikat
 
 :leveloffset: +3
 
+include::03/02/easyretro.adoc[]
+
 include::03/02/google_kalender.adoc[]
 
 include::03/02/hitobito.adoc[]
+
+include::03/02/mattermost.adoc[]
+
+include::03/02/msplanner.adoc[]
+
+include::03/02/msteams.adoc[]
+
+include::03/02/mstodo.adoc[]
 
 include::03/02/nextcloud.adoc[]
 
@@ -65,7 +75,13 @@ include::03/02/openproject.adoc[]
 
 include::03/02/outlook.adoc[]
 
+include::03/02/rocketchat.adoc[]
+
+include::03/02/slack.adoc[]
+
 include::03/02/strapi.adoc[]
+
+include::03/02/trello.adoc[]
 
 include::03/02/typo.adoc[]
 
