@@ -7,12 +7,14 @@
 // configure DE settings for asciidoc
 include::config.adoc[]
 
-= image:arc42-logo.png[arc42] civil42
+= image:https://upload.wikimedia.org/wikipedia/commons/2/25/Berner_Fachhochschule_Logo_small.svg[BFH,64] Digitale Souveränität von Vereinen - civil42
+Berner Fachhochschule BFH | Wirtschaft | Institut Public Sector Transformation
+Dipl.-Inf. (FH) Markus Tiede
 :revnumber: v0.1.0
 :revdate: {docdate}
 :revremark: Entwurf
 // toc-title definition MUST follow document title without blank line!
-:toc-title: Digitale Souveränität von Vereinen
+:toc-title: Inhaltsverzeichnis
 :toclevels: 4
 
 //additional style for arc42 help callouts
