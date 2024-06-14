@@ -15,7 +15,7 @@ Dipl.-Inf. (FH) Markus Tiede
 :revremark: Entwurf
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
-:toclevels: 4
+:toclevels: 3
 
 //additional style for arc42 help callouts
 ifdef::backend-html5[]

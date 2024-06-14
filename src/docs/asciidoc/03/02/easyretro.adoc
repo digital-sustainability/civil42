@@ -1,1 +1,23 @@
 = easyretro
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://easyretro.io/_nuxt/img/logo.2a34c52.svg[EasyRetro,256]
+
+
+| URL 
+| https://funretro.io > https://easyretro.io
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

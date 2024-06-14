@@ -1,1 +1,32 @@
 = Rocket.Chat
+
+== Beschreibung
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/orga/project[GitHub License]
+
+| OpenSSF Badge
+| [#img-rocketchat-badge,link=https://www.bestpractices.dev/projects/id] 
+image::https://www.bestpractices.dev/projects/id/badge[]
+
+2+^| image:[,256]
+
+
+| URL 
+| 
+
+| Anbieter 
+| 
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🟢

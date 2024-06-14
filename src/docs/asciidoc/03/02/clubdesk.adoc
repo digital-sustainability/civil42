@@ -1,2 +1,27 @@
 = ClubDesk
 
+== Beschreibung
+
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.clubdesk.ch/assets/clubdesk/images/clubdesk-logo.svg[ClubDesk,256]
+
+
+| URL 
+| https://www.clubdesk.ch
+
+| Anbieter 
+| reeweb ag
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

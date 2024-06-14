@@ -1,1 +1,23 @@
 = Gumb
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://gumb.app/images/gumb.svg[Gumb,256]
+
+
+| URL 
+| https://gumb.app
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

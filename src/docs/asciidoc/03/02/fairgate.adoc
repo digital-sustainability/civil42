@@ -1,1 +1,23 @@
-= FairGate
+= Fairgate
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://fairgate.de/wp-content/uploads/2020/06/download.png[Fairgate,256]
+
+
+| URL 
+| https://fairgate.de
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

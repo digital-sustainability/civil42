@@ -1,1 +1,26 @@
 = VVV.ch
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:[,256]
+
+
+| URL 
+| 
+
+| Anbieter 
+| 
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 

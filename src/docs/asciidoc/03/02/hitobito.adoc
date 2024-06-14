@@ -1,1 +1,35 @@
 = Hitobito
+
+== Beschreibung
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/hitobito/hitobito[GitHub License]
+
+| OpenSSF Badge
+| 
+
+2+^| image:https://www.open-circle.ch/wp-content/uploads/Hitobito-Logo-768x480.png[Hitobito,256]
+
+
+| URL 
+| https://hitobito.com
+
+| Anbieter 
+| link:http://puzzle.ch[Puzzle ITC]
+
+| Referenzen
+| 
+|===
+
+== Integration
+
+* ABC
+
+== Einstufung 🟢

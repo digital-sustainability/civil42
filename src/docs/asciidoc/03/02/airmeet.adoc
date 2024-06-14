@@ -1,1 +1,23 @@
 = AirMeet
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://cdn-cpdoj.nitrocdn.com/bdPRQtAGdEdDThAkFvaCqXUlcEqEsAJN/assets/images/optimized/rev-c11e02c/www.airmeet.com/hub/wp-content/uploads/2022/10/AM_Logo_Dark_WM.svg[AirMeet,256]
+
+
+| URL 
+| https://www.airmeet.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

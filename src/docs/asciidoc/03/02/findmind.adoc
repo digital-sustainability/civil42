@@ -1,1 +1,23 @@
-= FindMind
+= Findmind
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.findmind.ch/build/assets/logo-bc5e63e5.svg[Findmind,256]
+
+
+| URL 
+| https://www.findmind.ch
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

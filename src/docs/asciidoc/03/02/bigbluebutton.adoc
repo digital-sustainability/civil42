@@ -1,6 +1,30 @@
 = BigBlueButton
 
+== Beschreibung
+
 [source,wikipedia,subs="+normal"]
 ----
 include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DBigBlueButton[]
 ----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/bigbluebutton/bigbluebutton[GitHub License]
+
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/c/c7/BigBlueButton_logo.svg[BigBlueButton,256]
+
+
+| URL 
+| https://bigbluebutton.org
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🟢

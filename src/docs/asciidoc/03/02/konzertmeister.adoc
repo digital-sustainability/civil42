@@ -1,1 +1,23 @@
 = Konzertmeister
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.voice-choir.at/wp-content/uploads/2023/02/Logo2-2048x482.png[Konzertmeister,256]
+
+
+| URL 
+| https://konzertmeister.app
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

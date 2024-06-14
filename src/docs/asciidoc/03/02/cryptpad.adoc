@@ -1,1 +1,29 @@
 = CryptPad
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/cryptpad/cryptpad[GitHub License]
+
+2+^| image:https://cryptpad.org/images/CryptPad_logo_text.svg[CryptPad,256]
+
+
+| URL 
+| https://cryptpad.org
+
+| Anbieter 
+| https://cryptpad.org/instances/
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🟢

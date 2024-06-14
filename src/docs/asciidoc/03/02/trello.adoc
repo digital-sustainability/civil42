@@ -1,6 +1,30 @@
 = Trello
 
+== Beschreibung
+
 [source,wikipedia,subs="+normal"]
 ----
 include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DTrello[]
 ----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg[Trello,256]
+
+
+| URL 
+| https://trello.com
+
+| Anbieter 
+| https://www.atlassian.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

@@ -1,1 +1,24 @@
 = Milanote
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JGTonzoVhgbixOUp9iouLQ.png[Milanote,256]
+
+
+| URL 
+| https://milanote.com
+
+| Referenzen
+|  * https://vitamineb.ch/digital/ +
+* link:https://en.wikipedia.org/wiki/Comparison_of_note-taking_software[Wikipedia EN - Comparison of note-taking software]
+|===
+
+== Einstufung 🔴

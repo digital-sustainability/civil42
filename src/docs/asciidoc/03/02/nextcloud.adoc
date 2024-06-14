@@ -30,15 +30,8 @@ image::https://www.bestpractices.dev/projects/209/badge[]
 | Anbieter 
 | 
 
-| Instanzen
-| 
-
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
-
-== Integration
-
-* ABC
 
 == Einstufung 🟢

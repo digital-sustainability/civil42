@@ -1,6 +1,30 @@
 = Microsoft Planner
 
+== Beschreibung
+
 [source,wikipedia-en,subs="+normal"]
 ----
 include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DMicrosoft_Planner[]
 ----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Planner_%282019–present%29.svg[Microsoft Planner,256]
+
+
+| URL 
+| https://www.microsoft.com/de-ch/microsoft-365/business/task-management-software
+
+| Anbieter 
+| https://www.microsoft.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

@@ -1,1 +1,23 @@
 = beUnity
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://beunity.io/wp-content/uploads/2021/09/wide-Vector-File-white-pink.png[beUnity,256]
+
+
+| URL 
+| https://beunity.io
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

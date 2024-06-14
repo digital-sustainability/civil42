@@ -1,1 +1,23 @@
 = Loom
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://static-00.iconduck.com/assets.00/loom-icon-2048x618-nexm5j44.png[Loom,256]
+
+
+| URL 
+| https://www.loom.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

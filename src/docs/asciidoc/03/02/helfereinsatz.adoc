@@ -1,1 +1,23 @@
 = Helfereinsatz
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.helfereinsatz.ch/assets/bstmpl/img/logo-dark-blue.svg[Helfereinsatz,256]
+
+
+| URL 
+| https://www.helfereinsatz.ch
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

@@ -1,1 +1,23 @@
 = Evagic
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.evagic.com/assets/bstmpl/img/logo-dark.svg[Evagic,256]
+
+
+| URL 
+| https://www.evagic.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

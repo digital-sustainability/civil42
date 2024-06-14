@@ -1,1 +1,23 @@
 = Insieme
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.curion.ch/insieme/wp-content/uploads/2018/08/Insieme-negativ1.png[Insieme,256]
+
+
+| URL 
+| https://www.curion.ch
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

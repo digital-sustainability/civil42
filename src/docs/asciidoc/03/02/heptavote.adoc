@@ -1,1 +1,23 @@
 = HEPTAvote
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.heptavote.de/resources/img/logo-heptavote.svg[Heptavote,256]
+
+
+| URL 
+| https://www.heptavote.de
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

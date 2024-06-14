@@ -1,1 +1,23 @@
 = LocalClubs
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.localclubs.ch/uploads/media/sulu-260x/06/46-logo.webp[LocalClubs,256]
+
+
+| URL 
+| https://info.localcities.ch/deinverein
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

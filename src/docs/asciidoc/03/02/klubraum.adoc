@@ -1,2 +1,24 @@
 = Klubraum
 
+== Beschreibung
+
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://assets-global.website-files.com/6298cc8f59024c57f74c987f/62bc80ee9fafec0c82115b00_logo_klubraum_claim.webp[Klubraum,256]
+
+
+| URL 
+| https://klubraum.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

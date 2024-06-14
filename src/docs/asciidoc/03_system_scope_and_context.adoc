@@ -101,8 +101,6 @@ include::03/02/flinga.adoc[]
 
 include::03/02/framadate.adoc[]
 
-include::03/02/frontapp.adoc[]
-
 include::03/02/google_docs.adoc[]
 
 include::03/02/google_drive.adoc[]
@@ -158,6 +156,8 @@ include::03/02/mindmeister.adoc[]
 include::03/02/miro.adoc[]
 
 include::03/02/monday.adoc[]
+
+include::03/02/ms365.adoc[]
 
 include::03/02/msforms.adoc[]
 

@@ -1,1 +1,23 @@
 = Flinga
+
+== Beschreibung
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.medienfundgrube.at/wp-content/uploads/2021/05/Flinga-1.jpg[Flinga,256]
+
+
+| URL 
+| https://flinga.fi
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴

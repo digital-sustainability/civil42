@@ -1,6 +1,27 @@
 = Mentimeter
 
+== Beschreibung
+
 [source,wikipedia,subs="+normal"]
 ----
 include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DMentimeter[]
 ----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://images.ctfassets.net/rvt0uslu5yqp/18DtpQEcpcNMOWcJaoTAxQ/25d7c32ba96d21dee48d1fc3b097dad7/Mentimeter_Branding_Logo_2020_RGB-10-v2.jpg[Mentimeter,256]
+
+
+| URL 
+| https://www.mentimeter.com
+
+| Referenzen
+| https://vitamineb.ch/digital/
+|===
+
+== Einstufung 🔴
