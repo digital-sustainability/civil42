@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.teamup.com/wp-content/uploads/2020/10/logo-teamup-solutions-rgb.png[TeamUp,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.teamup.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

@@ -1,4 +1,4 @@
-= Outlook
+= Microsoft Outlook
 
 == Beschreibung
 
@@ -14,17 +14,13 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
-
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg[Microsoft Outlook,256]
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| http://outlook.office.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

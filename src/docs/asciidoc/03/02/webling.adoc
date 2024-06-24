@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.webling.ch/_ipx/f_webp&s_382x100/img/logo/webling_logo.png[Webling,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.webling.ch
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

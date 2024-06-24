@@ -165,7 +165,11 @@ include::03/02/msonedrive.adoc[]
 
 include::03/02/msonenote.adoc[]
 
+include::03/02/msoutlook.adoc[]
+
 include::03/02/msplanner.adoc[]
+
+include::03/02/msskype.adoc[]
 
 include::03/02/msteams.adoc[]
 
@@ -179,13 +183,9 @@ include::03/02/nuudel.adoc[]
 
 include::03/02/openproject.adoc[]
 
-include::03/02/outlook.adoc[]
-
 include::03/02/owncloud.adoc[]
 
 include::03/02/padlet.adoc[]
-
-include::03/02/perdrix.adoc[]
 
 include::03/02/polyas.adoc[]
 
@@ -195,19 +195,13 @@ include::03/02/rocketchat.adoc[]
 
 include::03/02/sanboard.adoc[]
 
-include::03/02/scumblr.adoc[]
-
 include::03/02/skillhub.adoc[]
-
-include::03/02/skype.adoc[]
 
 include::03/02/slack.adoc[]
 
 include::03/02/slido.adoc[]
 
 include::03/02/spond.adoc[]
-
-include::03/02/strapi.adoc[]
 
 include::03/02/surveymonkey.adoc[]
 
@@ -234,8 +228,6 @@ include::03/02/wetransfer.adoc[]
 include::03/02/whatsapp.adoc[]
 
 include::03/02/whereby.adoc[]
-
-include::03/02/wonder.adoc[]
 
 include::03/02/wordpress.adoc[]
 

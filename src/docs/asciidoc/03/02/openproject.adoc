@@ -15,20 +15,13 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Open Source Projekt
 
 | Lizenz
-| image:https://img.shields.io/github/license/orga/project[GitHub License]
+| image:https://img.shields.io/github/license/opf/openproject[GitHub License]
 
-| OpenSSF Badge
-| [#img-openproject-badge,link=https://www.bestpractices.dev/projects/id] 
-image::https://www.bestpractices.dev/projects/id/badge[]
-
-2+^| image:[,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/d/d5/OpenProjectLogo.png[OpenProject,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.openproject.org
 
 | Referenzen
 | https://vitamineb.ch/digital/

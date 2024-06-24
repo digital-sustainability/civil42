@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.slido.com/static/slido-logo.a3d453e1.svg[Slido,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.slido.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

@@ -24,7 +24,9 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | https://www.microsoft.com
 
 | Referenzen
-| CEBA Studie BK
+| CEBA Studie BK +
+https://vitamineb.ch/digital/
+
 |===
 
 == Einstufung 🔴

@@ -8,19 +8,19 @@
 [%header%footer,cols="1,2a"]
 |===
 | Typ
-| Proprietäre Software
+| Open Source Projekt
 
-2+^| image:[,256]
+| Lizenz
+| image:https://img.shields.io/github/license/whereby/sdk[GitHub License]
+
+2+^| image:https://framerusercontent.com/images/byWcaCNWWZsZnXvSlFAudEUbl0.svg[Whereby,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://whereby.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🟢

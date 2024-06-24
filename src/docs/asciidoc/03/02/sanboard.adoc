@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://hilfe.sanboard.ch/og.png[Sanboard,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://sanboard.ch
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.polyas.de/wp-content/uploads/2024/04/Logo-neue-Website-5-300x77.png[Polyas,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.polyas.de
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

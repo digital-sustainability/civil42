@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.verein-web.ch/design/img/logo_vw.svg[Verein-Web,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.verein-web.ch
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.swisstransfer.com/assets/images/logo_swiss_transfer_header.svg[SwissTransfer,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.swisstransfer.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

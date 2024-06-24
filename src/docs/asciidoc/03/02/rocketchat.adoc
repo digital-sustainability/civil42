@@ -10,20 +10,13 @@
 | Open Source Projekt
 
 | Lizenz
-| image:https://img.shields.io/github/license/orga/project[GitHub License]
+| image:https://img.shields.io/github/license/RocketChat/Rocket.Chat[GitHub License]
 
-| OpenSSF Badge
-| [#img-rocketchat-badge,link=https://www.bestpractices.dev/projects/id] 
-image::https://www.bestpractices.dev/projects/id/badge[]
-
-2+^| image:[,256]
+2+^| image:https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg[Rocket.Chat,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.rocket.chat
 
 | Referenzen
 | https://vitamineb.ch/digital/

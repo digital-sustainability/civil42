@@ -14,11 +14,11 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/0/09/Microsoft_Forms_%282019-present%29.svg[Microsoft Forms,256]
 
 
 | URL 
-| 
+| https://forms.microsoft.com
 
 | Anbieter 
 | https://www.microsoft.com
@@ -27,4 +27,4 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

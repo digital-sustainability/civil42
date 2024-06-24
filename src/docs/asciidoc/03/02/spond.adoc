@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.spond.com/app/themes/sozo/public/images/svg_icons/logo.svg[Spond,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.spond.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

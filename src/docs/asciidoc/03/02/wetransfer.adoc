@@ -14,17 +14,14 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/3/36/WeTransfer_logo.svg[WeTransfer,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://wetransfer.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

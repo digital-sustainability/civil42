@@ -23,9 +23,6 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | URL 
 | https://owncloud.com
 
-| Anbieter 
-| 
-
 | Referenzen
 | https://vitamineb.ch/digital/
 |===

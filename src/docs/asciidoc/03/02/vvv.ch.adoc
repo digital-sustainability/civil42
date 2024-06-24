@@ -10,17 +10,11 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
-
-
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.vvv.ch
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

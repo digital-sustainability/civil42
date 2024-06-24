@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://teamteam.at/wp-content/uploads/2023/03/teamteam_logo_new.svg[TeamTeam,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://teamteam.at
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

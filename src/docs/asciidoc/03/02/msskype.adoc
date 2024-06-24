@@ -1,4 +1,4 @@
-= Skype
+= Microsoft Skype
 
 == Beschreibung
 
@@ -14,17 +14,17 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019–present%29.svg[Skype,256]
 
 
 | URL 
-| 
+| https://www.skype.com
 
 | Anbieter 
-| 
+| https://www.microsoft.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://wetalents.net/assets/svgs/main-logo.svg[Skillhub,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://skillhub.wetalents.net
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

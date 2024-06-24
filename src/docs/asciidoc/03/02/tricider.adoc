@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://www.medienfundgrube.at/wp-content/uploads/2022/07/tricider_logo_his_03.png[Tricider,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://www.tricider.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

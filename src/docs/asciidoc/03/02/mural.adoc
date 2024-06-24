@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/6310bb11874afdba54b2cbf7_mural-logo-color.svg[Mural,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://mural.co
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴

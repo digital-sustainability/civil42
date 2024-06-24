@@ -10,17 +10,14 @@
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://quizzbox.com/wp-content/uploads/2021/06/340db54ee7c0ed1quizzbox-entreprises.png[QuizzBox,256]
 
 
 | URL 
-| 
-
-| Anbieter 
-| 
+| https://quizzbox.com
 
 | Referenzen
 | https://vitamineb.ch/digital/
 |===
 
-== Einstufung 
+== Einstufung 🔴
