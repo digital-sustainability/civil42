@@ -1,0 +1,28 @@
+= WorkAdventure
+
+== Beschreibung
+
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/workadventure/workadventure[GitHub License]
+
+2+^| image:https://raw.githubusercontent.com/workadventure/workadventure/develop/README-LOGO.svg[WorkAdventure,256]
+
+
+| URL 
+| https://workadventu.re
+
+| Referenzen
+| * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
+
+|===
+
+== Einstufung 🟢

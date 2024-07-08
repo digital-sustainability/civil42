@@ -23,7 +23,8 @@
 | https://cryptpad.org/instances/
 
 | Referenzen
-| https://vitamineb.ch/digital/
+| * https://vitamineb.ch/digital/ +
+ * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
 |===
 
 == Einstufung 🟢

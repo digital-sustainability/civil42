@@ -1,0 +1,28 @@
+= SNIPE-IT
+
+== Beschreibung
+
+
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/snipe/snipe-it[GitHub License]
+
+2+^| image:https://snipeitapp.com/img/logos/snipe-it-logo-xs.png[SNIPE IT,256]
+
+
+| URL 
+| https://snipeitapp.com
+
+| Referenzen
+| * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
+
+|===
+
+== Einstufung 🟢

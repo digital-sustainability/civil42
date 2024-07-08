@@ -24,7 +24,8 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | https://jitsi.org/meet
 
 | Referenzen
-| https://vitamineb.ch/digital/
+| * https://vitamineb.ch/digital/ +
+* https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
 |===
 
 == Einstufung 🟢
