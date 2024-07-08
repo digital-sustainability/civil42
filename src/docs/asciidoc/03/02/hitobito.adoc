@@ -28,8 +28,4 @@
 | 
 |===
 
-== Integration
-
-* ABC
-
 == Einstufung 🟢
