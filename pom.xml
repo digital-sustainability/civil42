@@ -65,14 +65,14 @@
                     </execution>
                     <execution>
                         <id>output-pdf</id>
-                        <phase>generate-resources</phase>
+                        <phase>install</phase>
                         <goals>
                             <goal>process-asciidoc</goal>
                         </goals>
                     </execution>
                     <execution>
                         <id>asciidoc-to-docbook</id>
-                        <phase>generate-resources</phase>
+                        <phase>install</phase>
                         <goals>
                             <goal>process-asciidoc</goal>
                         </goals>
