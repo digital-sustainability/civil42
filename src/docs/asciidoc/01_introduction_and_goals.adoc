@@ -1,44 +1,15 @@
 ifndef::imagesdir[:imagesdir: ../images]
 
-[[section-introduction-and-goals]]
-==	Einführung und Ziele
-
-[role="arc42help"]
-****
-Beschreibt die wesentlichen Anforderungen und treibenden Kräfte, die bei der Umsetzung der Softwarearchitektur und Entwicklung des Systems berücksichtigt werden müssen.
-
-Dazu gehören:
-
-* zugrunde liegende Geschäftsziele,
-* wesentliche Aufgabenstellungen,
-* wesentliche funktionale Anforderungen,
-* Qualitätsziele für die Architektur und
-* relevante Stakeholder und deren Erwartungshaltung.
-****
-
 === Aufgabenstellung
 
-[role="arc42help"]
-****
-.Inhalt
-Kurzbeschreibung der fachlichen Aufgabenstellung, treibenden Kräfte, Extrakt (oder Abstract) der Anforderungen.
-Verweis auf (hoffentlich vorliegende) Anforderungsdokumente (mit Versionsbezeichnungen und Ablageorten).
+Die link:https://vitamineb.ch/digital/[heutige Landschaft von eingesetzten digitalen Tools] zur Organisation von Vereinen und anderen Non-Profit-Organisationen ist stark geprägt von proprietären Software-Lösungen, welche nur ein geringes Mass an s.g. link:https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html[digitaler Souveränität] mit sich bringen. Dies führt zu einer starken Abhängigkeit zwischen Nutzenden und Anbietern auch bekannt als link:https://de.wikipedia.org/wiki/Lock-in-Effekt["Vendor bzw. Produkt Lock-In"].
 
-.Motivation
-Aus Sicht der späteren Nutzung ist die Unterstützung einer fachlichen Aufgabe oder Verbesserung der Qualität der eigentliche Beweggrund, ein neues System zu schaffen oder ein bestehendes zu modifizieren.
+Wir wollen im Rahmen eines Innovationsschecks prüfen, ob 
+ 1. In den NPOs bereits eine Sensibilisierung für das Thema vorliegt
+ 2. Wo Bedarf an digitalen Lösungen und Anbindungen besteht und welche Software zum Einsatz kommt
+ 3. Es für den Bedarf in den jeweiligen Teilbereichen (Kommunizieren und Arbeiten, Dokumente & Datenablage, Projektmanagement, ...) offene (s.g. open source) Lösungen gibt, welche als Alternativen angeführt bzw. empfohlen werden können
 
-.Form
-Kurze textuelle Beschreibung, eventuell in tabellarischer Use-Case Form.
-Sofern vorhanden, sollte die Aufgabenstellung Verweise auf die entsprechenden Anforderungsdokumente enthalten.
-
-Halten Sie diese Auszüge so knapp wie möglich und wägen Sie Lesbarkeit und Redundanzfreiheit gegeneinander ab.
-
-
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-1/[Anforderungen und Ziele] in der online-Dokumentation (auf Englisch!).
-
-****
+Ziel ist es die Souveränität von link:https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/[ehrenamtlichen Organisationen in Bezug auf Digitalisierung] zu unterstützen und zu stärken.
 
 === Qualitätsziele
 
