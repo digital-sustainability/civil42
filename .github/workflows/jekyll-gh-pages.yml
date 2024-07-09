@@ -48,6 +48,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          name: "arc42-html-output"
           path: "./target/docs/html"
 
   # Deployment job
