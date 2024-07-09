@@ -1,5 +1,7 @@
 # civil42
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/digital-sustainability/civil42/maven.yml)
+
 ## setup
 
 ### dynamic calls
