@@ -1,5 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 
+== Einführung und Ziele
+
 === Aufgabenstellung
 
 Die link:https://vitamineb.ch/digital/[heutige Landschaft von eingesetzten digitalen Tools] zur Organisation von Vereinen und anderen Non-Profit-Organisationen ist stark geprägt von proprietären Software-Lösungen, welche nur ein geringes Mass an s.g. link:https://www.cio.bund.de/Webs/CIO/DE/digitale-loesungen/digitale-souveraenitaet/digitale-souveraenitaet-node.html[digitaler Souveränität] mit sich bringen. Dies führt zu einer starken Abhängigkeit zwischen Nutzenden und Anbietern auch bekannt als link:https://de.wikipedia.org/wiki/Lock-in-Effekt["Vendor bzw. Produkt Lock-In"].
