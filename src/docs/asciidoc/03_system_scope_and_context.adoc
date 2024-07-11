@@ -165,23 +165,23 @@ include::03/02/miro.adoc[]
 
 include::03/02/monday.adoc[]
 
-include::03/02/ms365.adoc[]
+include::03/02/microsoft_365.adoc[]
 
-include::03/02/msforms.adoc[]
+include::03/02/microsoft_forms.adoc[]
 
-include::03/02/msonedrive.adoc[]
+include::03/02/microsoft_onedrive.adoc[]
 
-include::03/02/msonenote.adoc[]
+include::03/02/microsoft_onenote.adoc[]
 
-include::03/02/msoutlook.adoc[]
+include::03/02/microsoft_outlook.adoc[]
 
-include::03/02/msplanner.adoc[]
+include::03/02/microsoft_planner.adoc[]
 
-include::03/02/msskype.adoc[]
+include::03/02/microsoft_skype.adoc[]
 
-include::03/02/msteams.adoc[]
+include::03/02/microsoft_teams.adoc[]
 
-include::03/02/mstodo.adoc[]
+include::03/02/microsoft_todo.adoc[]
 
 include::03/02/mural.adoc[]
 
