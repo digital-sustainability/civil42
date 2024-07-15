@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Rechtssichere Online-Abstimmungen für Firmen und Vereine.
+----
 
 == Eigenschaften
 

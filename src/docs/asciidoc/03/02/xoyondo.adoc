@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Xoyondo macht es leicht, einen für alle passenden Termin für Ihre Veranstaltung zu finden. Sie können auch Umfragen erstellen und Diskussionen starten. Xoyondo ist kostenlos. Keine Registrierung erforderlich.
+----
 
 == Eigenschaften
 

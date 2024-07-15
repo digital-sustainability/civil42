@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Willst du bei der Organisation von Helfereinsätzen viel Nerven und Energie sparen? Schau dir unser Tool für die Einsatzplanung von Helfereinsätzen an!
+----
 
 == Eigenschaften
 

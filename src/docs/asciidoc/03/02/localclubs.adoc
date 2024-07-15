@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Präsentiere und Verwalte deinen Verein in deiner Gemeinde und darüber hinaus. Vereine kleiner als 100 Mitglieder nutzen Localclubs Vereins-Verwaltung kostenlos.
+----
 
 == Eigenschaften
 

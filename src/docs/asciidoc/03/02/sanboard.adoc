@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Sanboard bietet eine Softwarelösung für Sanitätsdienste an Veranstaltungen. Von der Einsatzplanung bis zur Durchführung und Nachbearbeitung unterstützt Sanboard ihren Organisation.
+----
 
 == Eigenschaften
 

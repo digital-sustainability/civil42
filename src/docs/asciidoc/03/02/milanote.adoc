@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Milanote is an easy-to-use tool to organize your ideas and projects into visual boards.
+----
 
 == Eigenschaften
 

@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Voting handset and online-voting Voting handset and online-voting.
+----
 
 == Eigenschaften
 
@@ -14,7 +18,7 @@
 
 
 | URL 
-| https://quizzbox.com
+| https://quizzbox.com/en/
 
 | Referenzen
 | https://vitamineb.ch/digital/

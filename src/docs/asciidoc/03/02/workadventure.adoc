@@ -2,7 +2,10 @@
 
 == Beschreibung
 
-
+[source,Website,subs="+normal"]
+----
+Explore for innovative virtual offices and remote event solutions. Boost collaboration in virtual offices & digital event solutions.
+----
 
 == Eigenschaften
 

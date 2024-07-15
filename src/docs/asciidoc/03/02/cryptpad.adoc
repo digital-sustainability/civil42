@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+End-to-end encrypted collaborative office suite.
+----
 
 == Eigenschaften
 

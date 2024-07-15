@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Ob Online-Wahlen oder Live Votings: einfach, sicher und schnell mit POLYAS - Planen Sie jetzt Ihr POLYAS Online-Wahl Projekt!
+----
 
 == Eigenschaften
 

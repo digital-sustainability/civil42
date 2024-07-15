@@ -2,7 +2,10 @@
 
 == Beschreibung
 
-
+[source,Website,subs="+normal"]
+----
+Mit der Vereinssoftware ClubDesk habt ihr eure Vereinsverwaltung ganz einfach im Griff: Mitgliederverwaltung, Rechnungen, Buchhaltung, Vereinswebseite und mehr.
+----
 
 == Eigenschaften
 

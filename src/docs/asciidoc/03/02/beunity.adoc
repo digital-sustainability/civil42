@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Die Community-Plattform zum Kommunizieren, Engagieren und Vernetzen. Die Brücke zwischen Organisation und Mitgliedern: Digital und Real.
+----
 
 == Eigenschaften
 

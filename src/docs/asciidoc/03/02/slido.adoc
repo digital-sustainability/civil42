@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Slido is the ultimate Q&amp;A and polling platform for live and virtual meetings and events. It offers interactive Q&A, live polls and insights about your audience.
+----
 
 == Eigenschaften
 

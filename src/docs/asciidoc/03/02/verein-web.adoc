@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Verwaltungstool für Vereine
+----
 
 == Eigenschaften
 

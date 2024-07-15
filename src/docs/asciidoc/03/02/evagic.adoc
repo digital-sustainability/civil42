@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Mit EVAGIC kannst du einfach attraktive Websites für Events erstellen, Anmeldungen verwalten, Aufgaben & Rollen definieren. Kurz: mit EVAGIC wird die Organisation deiner Events magic!
+----
 
 == Eigenschaften
 

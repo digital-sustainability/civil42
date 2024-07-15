@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Host highly customizable virtual, hybrid events and AI powered Webinar to deliver immersive and interactive experiences to your audience.
+----
 
 == Eigenschaften
 

@@ -17,3 +17,9 @@ Fetch raw data: https://de.wikipedia.org/w/api.php?action=query&format=json&prop
 
 Transform response with jq: .query.pages[].extract | gsub("\n*$"; "") | gsub("\n"; "&#x000A;&#x000A;")
 ```
+
+## Website description
+
+```
+wget -O- -q <URL> | xmllint --html --format 2> /dev/null - | awk '/meta name="description"/{print}'
+```

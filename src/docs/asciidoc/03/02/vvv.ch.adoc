@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Bei der Virtuellen Vereinsverwaltung (VVV) handelt es sich um einen sogennanten Software as a Service (SaaS), wie z.B. Ihr Online-Banking, Webmail oder Google-Docs. Damit haben Sie rund um die Uhr und von überall her Zugriff auf Ihre Vereinsdaten.
+----
 
 == Eigenschaften
 

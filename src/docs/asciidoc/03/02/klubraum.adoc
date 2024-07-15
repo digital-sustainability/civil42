@@ -2,7 +2,10 @@
 
 == Beschreibung
 
-
+[source,Website,subs="+normal"]
+----
+Kalender, Chat & mehr für Gruppen und Vereine.
+----
 
 == Eigenschaften
 

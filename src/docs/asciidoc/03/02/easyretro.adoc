@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Improve with Fun Sprint Retrospectives 🔥: Collaborate with your remote team and get better at what you do with a simple, intuitive and beautiful tool.
+----
 
 == Eigenschaften
 

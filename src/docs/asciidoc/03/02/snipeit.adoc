@@ -2,7 +2,10 @@
 
 == Beschreibung
 
-
+[source,Website,subs="+normal"]
+----
+Snipe-IT is a free, open source IT asset management system written in PHP.
+----
 
 == Eigenschaften
 

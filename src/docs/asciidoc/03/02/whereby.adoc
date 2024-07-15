@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Get started for free and integrate WebRTC video calls into your website or app using the Whereby API and SDK.
+----
 
 == Eigenschaften
 

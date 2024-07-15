@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+INSIEME®- Die Software für jeden Verein, Club, Verband und Organisation
+----
 
 == Eigenschaften
 
@@ -14,7 +18,7 @@
 
 
 | URL 
-| https://www.curion.ch
+| https://www.curion.ch/insieme/
 
 | Referenzen
 | https://vitamineb.ch/digital/

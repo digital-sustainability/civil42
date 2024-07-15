@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Software für Vereine und Verbände
+----
 
 == Eigenschaften
 

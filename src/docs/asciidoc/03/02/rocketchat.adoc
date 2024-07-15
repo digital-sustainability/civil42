@@ -2,6 +2,11 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Communications Platform You Can Fully Trust.
+----
+
 == Eigenschaften
 
 [%header%footer,cols="1,2a"]

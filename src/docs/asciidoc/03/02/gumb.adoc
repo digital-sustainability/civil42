@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Teamkalender, trackt Anwesenheit und Statistiken, Kommunikation, Mitgliederverwaltung. Plant mit Gumb und dein Team bleibt organisiert.
+----
 
 == Eigenschaften
 

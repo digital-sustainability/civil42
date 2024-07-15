@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Spond is The Free Sports Team Management App Chosen by 1000's of Teams Worldwide! Start Scheduling Events, Sending Invites & More Today!
+----
 
 == Eigenschaften
 

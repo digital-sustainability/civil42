@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity.
+----
 
 == Eigenschaften
 

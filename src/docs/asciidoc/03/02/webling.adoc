@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Vereinssoftware, die Spass macht und deine Aufgabe vereinfacht. Für Vereinsverwaltung, Adressen und Buchhaltung
+----
 
 == Eigenschaften
 

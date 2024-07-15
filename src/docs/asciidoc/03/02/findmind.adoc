@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Erstellen Sie kostenlos, einfach und schnell Online Umfragen mit automatischer Auswertung. Excel / Word Export, Mehrsprachigkeit, Eigenes Logo, Bilder, verschiedene Fragetypen und vieles mehr.
+----
 
 == Eigenschaften
 

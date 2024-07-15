@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Einfachste Terminplanung für Teams: Termine aussenden, Zusagen, Absagen, Ressourcen einplanen, Engpässe automatisch erkennen.
+----
 
 == Eigenschaften
 

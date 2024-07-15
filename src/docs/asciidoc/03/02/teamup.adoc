@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Boost team productivity and efficiency with a powerful calendar solution. Streamline operations and improve collaboration for better results.
+----
 
 == Eigenschaften
 

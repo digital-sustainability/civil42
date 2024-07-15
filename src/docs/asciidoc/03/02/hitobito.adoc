@@ -2,6 +2,11 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Hitobito ist die webbasierte Open Source Lösung zur modernen und effizienten Verwaltung von Verbänden, Vereinen und Organisationen mit einfachen bis komplexen Strukturen.
+----
+
 == Eigenschaften
 
 [%header%footer,cols="1,2a"]

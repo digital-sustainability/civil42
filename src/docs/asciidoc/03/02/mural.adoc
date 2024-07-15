@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Teamwork feels like less work with Mural, the secure, flexible, visual work platform purpose-built for collaboration.
+----
 
 == Eigenschaften
 

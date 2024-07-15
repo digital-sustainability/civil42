@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Collect ideas and vote. Free online tool for easy brainstorming and voting. For decision making, crowdsourcing and idea generation.
+----
 
 == Eigenschaften
 

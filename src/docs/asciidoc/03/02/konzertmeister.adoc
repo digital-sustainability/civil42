@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Plane deine Proben und Auftritte mit Konzertmeister, der cleveren App zur Terminplanung für deinen Musikverein, Chor, dein Orchester oder deine Blaskapelle.
+----
 
 == Eigenschaften
 

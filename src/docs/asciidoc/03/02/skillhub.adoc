@@ -2,6 +2,10 @@
 
 == Beschreibung
 
+[source,Website,subs="+normal"]
+----
+Entdecke Skill Hubs von We Talents. Die Top-Technologie für skill-basierte Vernetzung und Matching von Jobs, Projekten, Mitgliedern und News in Unternehmen und Organisationen.
+----
 
 == Eigenschaften
 
