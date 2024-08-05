@@ -1,0 +1,30 @@
+= Penpot
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/penpot/penpot[GitHub License]
+
+2+^| image:https://penpot.app/images/readme/github-light-mode.png[Penpot,256]
+
+
+| URL 
+| https://penpot.app
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢

@@ -105,6 +105,8 @@ include::03/02/flinga.adoc[]
 
 include::03/02/framadate.adoc[]
 
+include::03/02/freeplane.adoc[]
+
 include::03/02/gimp.adoc[]
 
 include::03/02/google_docs.adoc[]
@@ -137,7 +139,11 @@ include::03/02/insieme.adoc[]
 
 include::03/02/jitsi.adoc[]
 
+include::03/02/joplin.adoc[]
+
 include::03/02/kahoot.adoc[]
+
+include::03/02/keepassxc.adoc[]
 
 include::03/02/kdrive.adoc[]
 
@@ -145,9 +151,13 @@ include::03/02/klubraum.adoc[]
 
 include::03/02/konzertmeister.adoc[]
 
+include::03/02/krita.adoc[]
+
 include::03/02/lamapoll.adoc[]
 
 include::03/02/limesurvey.adoc[]
+
+include::03/02/libreoffice.adoc[]
 
 include::03/02/localclubs.adoc[]
 
@@ -203,6 +213,8 @@ include::03/02/owncloud.adoc[]
 
 include::03/02/padlet.adoc[]
 
+include::03/02/penpot.adoc[]
+
 include::03/02/polyas.adoc[]
 
 include::03/02/quizzbox.adoc[]
@@ -210,6 +222,8 @@ include::03/02/quizzbox.adoc[]
 include::03/02/rocketchat.adoc[]
 
 include::03/02/sanboard.adoc[]
+
+include::03/02/sharex.adoc[]
 
 include::03/02/skillhub.adoc[]
 
@@ -228,6 +242,8 @@ include::03/02/swisstransfer.adoc[]
 include::03/02/teamteam.adoc[]
 
 include::03/02/teamup.adoc[]
+
+include::03/02/thunderbird.adoc[]
 
 include::03/02/trello.adoc[]
 

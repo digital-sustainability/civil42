@@ -1,0 +1,30 @@
+= Mozilla_Thunderbird
+
+== Beschreibung
+
+[source,wikipedia,subs="+normal"]
+----
+include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DMozilla_Thunderbird[]
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| link:https://de.wikipedia.org/wiki/Mozilla_Thunderbird[MPL/GPL/LGPL (Mehrfachlizenzierung)]
+
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/5/53/Thunderbird_2023_icon.png[Mozilla Thunderbird,256]
+
+
+| URL 
+| https://www.thunderbird.net
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢
