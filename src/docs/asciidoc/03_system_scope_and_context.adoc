@@ -155,6 +155,8 @@ include::03/02/loom.adoc[]
 
 include::03/02/mattermost.adoc[]
 
+include::03/02/matrix.adoc[]
+
 include::03/02/mentimeter.adoc[]
 
 include::03/02/milanote.adoc[]
@@ -195,6 +197,8 @@ include::03/02/openproject.adoc[]
 
 include::03/02/openshot.adoc[]
 
+include::03/02/openxchange.adoc[]
+
 include::03/02/owncloud.adoc[]
 
 include::03/02/padlet.adoc[]
@@ -230,6 +234,8 @@ include::03/02/trello.adoc[]
 include::03/02/tricider.adoc[]
 
 include::03/02/typo.adoc[]
+
+include::03/02/ucs.adoc[]
 
 include::03/02/verein-web.adoc[]
 
