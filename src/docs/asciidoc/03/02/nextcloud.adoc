@@ -29,7 +29,7 @@ image::https://www.bestpractices.dev/projects/209/badge[]
 
 | Referenzen
 | * https://vitamineb.ch/digital/ +
- * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Studie bei der Bundeskanzlei zu Microsoft Backend-Services]
+ * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Backend-Services]
 |===
 
 == Einstufung 🟢
