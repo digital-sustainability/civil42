@@ -3,54 +3,6 @@ ifndef::imagesdir[:imagesdir: ../images]
 [[section-system-scope-and-context]]
 == Kontextabgrenzung
 
-[role="arc42help"]
-****
-.Inhalt
-Die Kontextabgrenzung grenzt das System gegen alle Kommunikationspartner (Nachbarsysteme und Benutzerrollen) ab.
-Sie legt damit die externen Schnittstellen fest und zeigt damit auch die Verantwortlichkeit (scope) Ihres Systems: Welche Verantwortung trägt das System und welche Verantwortung übernehmen die Nachbarsysteme?
-
-Differenzieren Sie fachlichen (Ein- und Ausgaben) und technischen Kontext (Kanäle, Protokolle, Hardware), falls nötig.
-
-
-.Motivation
-Die fachlichen und technischen Schnittstellen zur Kommunikation gehören zu den kritischsten Aspekten eines Systems.
-Stellen Sie sicher, dass Sie diese komplett verstanden haben.
-
-.Form
-Verschiedene Optionen:
-
-* Diverse Kontextdiagramme
-* Listen von Kommunikationsbeziehungen mit deren Schnittstellen
-
-
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-3/[Kontextabgrenzung] in der online-Dokumentation (auf Englisch!).
-
-****
-
-=== Fachlicher Kontext
-
-[role="arc42help"]
-****
-.Inhalt
-Festlegung *aller* Kommunikationsbeziehungen (Nutzer, IT-Systeme, ...) mit Erklärung der fachlichen Ein- und Ausgabedaten oder Schnittstellen.
-Zusätzlich (bei Bedarf) fachliche Datenformate oder Protokolle der Kommunikation mit den Nachbarsystemen.
-
-.Motivation
-Alle Beteiligten müssen verstehen, welche fachlichen Informationen mit der Umwelt ausgetauscht werden.
-
-.Form
-Alle Diagrammarten, die das System als Blackbox darstellen und die fachlichen Schnittstellen zu den Nachbarsystemen beschreiben.
-
-Alternativ oder ergänzend können Sie eine Tabelle verwenden.
-Der Titel gibt den Namen Ihres Systems wieder; die drei Spalten sind: Kommunikationsbeziehung, Eingabe, Ausgabe.
-****
-
-**<Diagramm und/oder Tabelle>**
-
-**<optional: Erläuterung der externen fachlichen Schnittstellen>**
-
 === Technischer Kontext
 
 :leveloffset: +3
@@ -278,3 +230,47 @@ include::03/02/zammad.adoc[]
 include::03/02/zoom.adoc[]
 
 :leveloffset: -3
+
+=== Fachlicher Kontext
+
+==== Digital planen und zusammenarbeiten
+
+===== Kommunizieren und Arbeiten planen
+
+====== <<_easyretro>>
+
+====== <<_mattermost>>
+
+====== <<_microsoft_planner>>
+
+====== <<_microsoft_teams>>
+
+====== <<_microsoft_to_do>>
+
+====== <<_rocket_chat>>
+
+====== <<_slack>>
+
+====== <<_trello>>
+
+===== Vereinsaktivitäten organisieren & Freiwillige finden
+
+===== Termine planen
+
+===== Dokumente gemeinsam bearbeiten
+
+===== Vereinssoftware
+
+===== Clouds (Datenablage)
+
+===== Projektmanagement-Tools
+
+==== Digitale Inhalte erstellen
+
+===== Quiz, Umfragen & Abstimmungen
+
+===== Ideen sammeln & kreativ gestalten
+
+===== Videos, Designs und Podcasts kreieren
+
+==== Video-Konferenzen & Online-Meetings
