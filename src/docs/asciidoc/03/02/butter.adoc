@@ -1,4 +1,4 @@
-= Butter Project
+= Butter
 
 == Beschreibung
 

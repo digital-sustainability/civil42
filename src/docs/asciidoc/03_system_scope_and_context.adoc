@@ -238,39 +238,119 @@ include::03/02/zoom.adoc[]
 ===== Kommunizieren und Arbeiten planen
 
 ====== <<_easyretro>>
-
 ====== <<_mattermost>>
-
 ====== <<_microsoft_planner>>
-
 ====== <<_microsoft_teams>>
-
 ====== <<_microsoft_to_do>>
-
 ====== <<_rocket_chat>>
-
 ====== <<_slack>>
-
 ====== <<_trello>>
 
 ===== Vereinsaktivitäten organisieren & Freiwillige finden
 
+====== <<_beunity>>
+====== <<_evagic>>
+====== <<_gumb>>
+====== <<_helfereinsatz>>
+====== <<_klubraum>>
+====== <<_konzertmeister>>
+====== <<_teamteam>>
+====== <<_sanboard>>
+====== <<_skillhub>>
+====== <<_spond>>
+
 ===== Termine planen
+
+====== <<_doodle>>
+====== <<_nuudel>>
+====== <<_teamup>>
+====== <<_xoyondo>>
 
 ===== Dokumente gemeinsam bearbeiten
 
+====== <<_canva>>
+====== <<_cryptpad>>
+====== <<_evernote>>
+====== <<_google_docs>>
+====== <<_microsoft_onenote>>
+====== <<_swisstransfer>>
+====== <<_wetransfer>>
+
 ===== Vereinssoftware
+
+====== <<_clubdesk>>
+====== <<_insieme>>
+====== <<_fairgate>>
+====== <<_localclubs>>
+====== <<_webling>>
+====== <<_vvv_ch>>
+====== <<_verein_web>>
 
 ===== Clouds (Datenablage)
 
+====== <<_adobe_cloud>>
+====== <<_box>>
+====== <<_cryptpad>>
+====== <<_dropbox>>
+====== <<_kdrive>>
+====== <<_microsoft_onedrive>>
+====== <<_nextcloud>>
+====== <<_owncloud>>
+====== <<_google_drive>>
+
 ===== Projektmanagement-Tools
+
+====== <<_asana>>
+====== <<_basecamp>>
+====== <<_clickup>>
+====== <<_monday>>
 
 ==== Digitale Inhalte erstellen
 
 ===== Quiz, Umfragen & Abstimmungen
 
+====== <<_google_formulare>>
+====== <<_findmind>>
+====== <<_heptavote>>
+====== <<_kahoot>>
+====== <<_lamapoll>>
+====== <<_limesurvey>>
+====== <<_mentimeter>>
+====== <<_microsoft_forms>>
+====== <<_polyas>>
+====== <<_quizzbox>>
+====== <<_slido>>
+====== <<_surveymonkey>>
+====== <<_tricider>>
+
 ===== Ideen sammeln & kreativ gestalten
+
+====== <<_flinga>>
+====== <<_google_jamboard>>
+====== <<_milanote>>
+====== <<_miro>>
+====== <<_mindmeister>>
+====== <<_mural>>
+====== <<_padlet>>
 
 ===== Videos, Designs und Podcasts kreieren
 
+====== <<_canva>>
+====== <<_anchor_fm>>
+====== <<_loom>>
+
 ==== Video-Konferenzen & Online-Meetings
+
+===== <<_airmeet>>
+===== <<_bigbluebutton>>
+===== <<_bluejeans_network_meetings>>
+===== <<_butter>>
+===== <<_google_hangouts>>
+===== <<_goto_meeting>>
+===== <<_hopin>>
+===== <<_jitsi>>
+===== <<_microsoft_skype>>
+===== <<_microsoft_teams>>
+===== <<_whatsapp>>
+===== <<_whereby>>
+===== <<_zoom>>
