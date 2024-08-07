@@ -195,7 +195,7 @@ include::03/02/teamteam.adoc[]
 
 include::03/02/teamup.adoc[]
 
-include::03/02/thunderbird.adoc[]
+include::03/02/mozilla_thunderbird.adoc[]
 
 include::03/02/trello.adoc[]
 
