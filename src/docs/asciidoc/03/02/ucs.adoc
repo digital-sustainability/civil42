@@ -1,4 +1,4 @@
-= Univention Corporate Server (UCS)
+= Univention Corporate Server
 
 == Beschreibung
 
