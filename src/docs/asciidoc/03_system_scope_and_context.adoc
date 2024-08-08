@@ -251,6 +251,7 @@ include::03/02/zoom.adoc[]
 ====== <<_rocket_chat>>
 ====== <<_slack>>
 ====== <<_trello>>
+====== <<_zammad>>
 
 ===== Vereinsaktivitäten organisieren & Freiwillige finden
 
@@ -263,6 +264,7 @@ include::03/02/zoom.adoc[]
 ====== <<_teamteam>>
 ====== <<_sanboard>>
 ====== <<_skillhub>>
+====== <<_snipe_it>>
 ====== <<_spond>>
 
 ===== Termine planen
@@ -292,7 +294,7 @@ include::03/02/zoom.adoc[]
 ====== <<_vvv_ch>>
 ====== <<_verein_web>>
 
-===== Clouds (Datenablage)
+===== Clouds / Datenablage
 
 ====== <<_adobe_cloud>>
 ====== <<_box>>
@@ -303,6 +305,10 @@ include::03/02/zoom.adoc[]
 ====== <<_nextcloud>>
 ====== <<_owncloud>>
 ====== <<_google_drive>>
+
+====== Passwörter
+
+====== <<_bitwarden>>
 
 ===== Projektmanagement-Tools
 
@@ -341,9 +347,15 @@ include::03/02/zoom.adoc[]
 
 ===== Videos, Designs und Podcasts kreieren
 
-====== <<_canva>>
 ====== <<_anchor_fm>>
+====== <<_canva>>
+====== <<_draw_io>>
+====== <<_gimp>>
+====== <<_greenshot>>
 ====== <<_loom>>
+====== <<_openshot>>
+====== <<_obs_studio>>
+====== <<_vlc>>
 
 ==== Video-Konferenzen & Online-Meetings
 
@@ -359,4 +371,5 @@ include::03/02/zoom.adoc[]
 ===== <<_microsoft_teams>>
 ===== <<_whatsapp>>
 ===== <<_whereby>>
+===== <<_workadventure>>
 ===== <<_zoom>>
