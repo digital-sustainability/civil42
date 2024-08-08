@@ -131,6 +131,10 @@ include::03/02/monday.adoc[]
 
 include::03/02/microsoft_365.adoc[]
 
+include::03/02/microsoft_activedirectory.adoc[]
+
+include::03/02/microsoft_exchange.adoc[]
+
 include::03/02/microsoft_forms.adoc[]
 
 include::03/02/microsoft_onedrive.adoc[]
@@ -141,11 +145,15 @@ include::03/02/microsoft_outlook.adoc[]
 
 include::03/02/microsoft_planner.adoc[]
 
+include::03/02/microsoft_sharepoint.adoc[]
+
 include::03/02/microsoft_skype.adoc[]
 
 include::03/02/microsoft_teams.adoc[]
 
 include::03/02/microsoft_todo.adoc[]
+
+include::03/02/mozilla_thunderbird.adoc[]
 
 include::03/02/mural.adoc[]
 
@@ -194,8 +202,6 @@ include::03/02/swisstransfer.adoc[]
 include::03/02/teamteam.adoc[]
 
 include::03/02/teamup.adoc[]
-
-include::03/02/mozilla_thunderbird.adoc[]
 
 include::03/02/trello.adoc[]
 
