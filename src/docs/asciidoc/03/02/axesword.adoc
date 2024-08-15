@@ -1,0 +1,29 @@
+= axesWord
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Du musst kein Experte für PDF-Barrierefreiheit sein. axesWord erstellt direkt aus Microsoft Word gesetzeskonforme barrierefreie PDF-Dokumente. 100% automatisiert. Nacharbeiten entfällt komplett.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.axes4.com/_Resources/Persistent/e/4/e/f/e4efa419d19efbc56435cef2999eb86cc2d75570/axesWord_horizontal.svg[axesWord,256]
+
+| URL
+| https://www.axes4.com/de/software-services/axesword
+
+| Anbieter 
+| https://www.axes4.com
+
+| Referenzen
+| https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Bestand - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🔴

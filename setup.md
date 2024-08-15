@@ -32,6 +32,8 @@ httrack
 grep -EiorhI '([[:alnum:]|\._.-]+@[[:alnum:]_.-]+?\.[[:alpha:].]{2,6})' "$@" * | sort | uniq > emails.txt
 
 cat eMails.txt | wc
+
+find . -name '*.txt' | xargs wc -l | sort -nr
 ```
 
 ### Body 

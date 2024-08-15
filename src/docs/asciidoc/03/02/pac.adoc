@@ -1,0 +1,27 @@
+= PDF Accessibility Checker (PAC)
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+PAC 2.0 ist der weltweit erste PDF/UA-Validator. Mit PAC 2.0 lassen sich PDF-Dokumente auf Barrierefreiheit gemäss ISO-Standard 14289-1:2012-07 – bekannt als PDF/UA (Universal Accessibility) – überprüfen.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://einmanncombo.de/wpLIVE_emc7zuaO0wnio/wp-content/uploads/emc_PAC3.jpg[PAC,256]
+
+
+| Anbieter 
+| http://www.xymedia.ch
+
+| Referenzen
+| https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Bestand - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🔴

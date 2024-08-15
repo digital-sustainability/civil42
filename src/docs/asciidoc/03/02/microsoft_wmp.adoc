@@ -1,0 +1,30 @@
+= Microsoft Windows Media Player
+
+== Beschreibung
+
+[source,wikipedia,subs="+normal"]
+----
+include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DWindows_Media_Player[]
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://upload.wikimedia.org/wikipedia/de/6/6e/Windows_Media_Player12-Logo.png[Microsoft Windows Media Player,256]
+
+
+| URL 
+| https://windows.microsoft.com/de-DE/windows/products/windows-media-player
+
+| Anbieter 
+| https://www.microsoft.com
+
+| Referenzen
+| https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Bestand - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🔴

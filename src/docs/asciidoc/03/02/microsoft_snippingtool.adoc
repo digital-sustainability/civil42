@@ -1,0 +1,30 @@
+= Microsoft Snipping Tool
+
+== Beschreibung
+
+[source,wikipedia-en,subs="+normal"]
+----
+include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28%22%5Cn*%24%22%3B+%22%22%29+%7C+gsub%28%22%5Cn%22%3B+%22%26%23x000A%3B%26%23x000A%3B%22%29&url=https%3A%2F%2Fde.wikipedia.org%2Fw%2Fapi.php%3Faction%3Dquery%26format%3Djson%26prop%3Dextracts%26exintro%26explaintext%26titles%3DSnipping_Tool[]
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://store-images.s-microsoft.com/image/apps.37258.13878650002538161.3f27413b-237a-452f-a9d4-28acfb7ff8a3.1812a9fb-4c52-4909-9b02-bd4b334af3dd?h=210[Microsoft Snipping Tool,256]
+
+
+| URL 
+| https://apps.microsoft.com/detail/9mz95kl8mr0l
+
+| Anbieter 
+| https://www.microsoft.com
+
+| Referenzen
+| https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Bestand - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🔴

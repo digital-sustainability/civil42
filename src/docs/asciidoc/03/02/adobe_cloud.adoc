@@ -24,7 +24,8 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | https://www.adobe.com
 
 | Referenzen
-| https://vitamineb.ch/digital/
+| * https://vitamineb.ch/digital/ +
+ * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Bestand - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
 |===
 
 == Einstufung 🔴
