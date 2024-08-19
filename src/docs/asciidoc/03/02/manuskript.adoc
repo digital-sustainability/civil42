@@ -1,0 +1,30 @@
+= Manuskript
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+Open-source tool for writers: Manuskript is a perfect tool for those writer who like to organize and plan everything before writing.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/olivierkes/manuskript[GitHub License]
+
+2+^| image:https://github.com/olivierkes/manuskript/blob/develop/icons/Manuskript/logo-400x104.png?raw=true[Manuskript,256]
+
+
+| URL 
+| https://www.theologeek.ch/manuskript/
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢

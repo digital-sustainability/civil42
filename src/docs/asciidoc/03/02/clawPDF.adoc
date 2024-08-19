@@ -1,0 +1,30 @@
+= clawPDF
+
+== Beschreibung
+
+[source,Github Readme,subs="+normal"]
+----
+ClawPDF may seem like yet another Virtual PDF/OCR/Image Printer, but it actually comes packed with features that are typically found in enterprise solutions. With clawPDF, you can create documents in various formats, including PDF/A-1b, PDF/A-2b, PDF/A-3b, PDF/X, PDF/Image, OCR, SVG, PNG, JPEG, TIF, and TXT. You also have easy access to metadata and can remove it before sharing a document. In addition, you can protect your documents with a password and encrypt them with up to 256-bit AES.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/clawsoftware/clawPDF[GitHub License]
+
+2+^| image:https://avatars.githubusercontent.com/u/45692132?v=4[clawPDF,256]
+
+
+| URL 
+| https://github.com/clawsoftware/clawPDF
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢

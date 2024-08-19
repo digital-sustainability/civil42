@@ -7,6 +7,8 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 :leveloffset: +3
 
+include::03/02/7zip.adoc[]
+
 include::03/02/adobe_acrobat.adoc[]
 
 include::03/02/adobe_cloud.adoc[]
@@ -37,7 +39,11 @@ include::03/02/box.adoc[]
 
 include::03/02/butter.adoc[]
 
+include::03/02/calibreweb.adoc[]
+
 include::03/02/canva.adoc[]
+
+include::03/02/clawPDF.adoc[]
 
 include::03/02/clickup.adoc[]
 
@@ -53,6 +59,8 @@ include::03/02/drawio.adoc[]
 
 include::03/02/easyretro.adoc[]
 
+include::03/02/element.adoc[]
+
 include::03/02/evagic.adoc[]
 
 include::03/02/evernote.adoc[]
@@ -66,6 +74,8 @@ include::03/02/flinga.adoc[]
 include::03/02/framadate.adoc[]
 
 include::03/02/freeplane.adoc[]
+
+include::03/02/freshrss.adoc[]
 
 include::03/02/gimp.adoc[]
 
@@ -94,6 +104,8 @@ include::03/02/heptavote.adoc[]
 include::03/02/hitobito.adoc[]
 
 include::03/02/hopin.adoc[]
+
+include::03/02/inkscape.adoc[]
 
 include::03/02/insieme.adoc[]
 
@@ -124,6 +136,8 @@ include::03/02/libreoffice.adoc[]
 include::03/02/localclubs.adoc[]
 
 include::03/02/loom.adoc[]
+
+include::03/02/manuskript.adoc[]
 
 include::03/02/mattermost.adoc[]
 
@@ -181,11 +195,15 @@ include::03/02/monday.adoc[]
 
 include::03/02/moveit.adoc[]
 
+include::03/02/mozilla_firefox.adoc[]
+
 include::03/02/mozilla_thunderbird.adoc[]
 
 include::03/02/mural.adoc[]
 
 include::03/02/nextcloud.adoc[]
+
+include::03/02/nomacs.adoc[]
 
 include::03/02/nuudel.adoc[]
 
@@ -211,9 +229,15 @@ include::03/02/polyas.adoc[]
 
 include::03/02/quizzbox.adoc[]
 
+include::03/02/rawtherapee.adoc[]
+
+include::03/02/recoll.adoc[]
+
 include::03/02/rocketchat.adoc[]
 
 include::03/02/sanboard.adoc[]
+
+include::03/02/scribus.adoc[]
 
 include::03/02/sharex.adoc[]
 
@@ -242,6 +266,8 @@ include::03/02/tricider.adoc[]
 include::03/02/typo.adoc[]
 
 include::03/02/ucs.adoc[]
+
+include::03/02/verapdf.adoc[]
 
 include::03/02/verein-web.adoc[]
 

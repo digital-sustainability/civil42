@@ -1,0 +1,30 @@
+= Nomacs
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+nomacs is a free, open source image viewer, which supports multiple platforms. You can use it for viewing all common image formats including RAW and psd images.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/nomacs/nomacs[GitHub License]
+
+2+^| image:https://nomacs.org/docs/getting-started/home-img.png[Nomacs,256]
+
+
+| URL 
+| https://nomacs.org
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢

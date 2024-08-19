@@ -1,0 +1,30 @@
+= veraPDF
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+The veraPDF project, definitive, open source PDF/A validation.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/veraPDF/veraPDF-validation[GitHub License]
+
+2+^| image:https://verapdf.org/wp-content/uploads/2015/06/veraPDF-logo-200.png[veraPDF,256]
+
+
+| URL 
+| https://verapdf.org
+
+| Referenzen
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Frontend-Services]
+|===
+
+== Einstufung 🟢
