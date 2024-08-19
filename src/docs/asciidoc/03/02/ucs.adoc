@@ -24,7 +24,8 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | https://www.univention.de/produkte/ucs/
 
 | Referenzen
-| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Backend-Services]
+| * https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html[Empfehlung - Studie bei der Bundeskanzlei zu Microsoft Backend-Services] +
+ * https://gitlab.opencode.de/bmi/opendesk/info/-/blob/main/OVERVIEW.md[Basiskomponente von openDesk by Open CoDE]
 |===
 
 == Einstufung 🟢

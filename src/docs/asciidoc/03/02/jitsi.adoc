@@ -25,7 +25,8 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 
 | Referenzen
 | * https://vitamineb.ch/digital/ +
-* https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
+ * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/ +
+ * https://gitlab.opencode.de/bmi/opendesk/info/-/blob/main/OVERVIEW.md[Basiskomponente von openDesk by Open CoDE]
 |===
 
 == Einstufung 🟢

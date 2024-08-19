@@ -49,6 +49,8 @@ include::03/02/clickup.adoc[]
 
 include::03/02/clubdesk.adoc[]
 
+include::03/02/collabora.adoc[]
+
 include::03/02/cryptpad.adoc[]
 
 include::03/02/doodle.adoc[]
@@ -290,6 +292,8 @@ include::03/02/whereby.adoc[]
 include::03/02/wordpress.adoc[]
 
 include::03/02/xoyondo.adoc[]
+
+include::03/02/xwiki.adoc[]
 
 include::03/02/zammad.adoc[]
 
