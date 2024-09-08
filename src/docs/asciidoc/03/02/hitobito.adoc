@@ -18,7 +18,8 @@ Hitobito ist die webbasierte Open Source Lösung zur modernen und effizienten Ve
 | image:https://img.shields.io/github/license/hitobito/hitobito[GitHub License]
 
 | OpenSSF Badge
-| 
+| [#img-hitobito-badge,link=https://www.bestpractices.dev/projects/8947] 
+image::https://www.bestpractices.dev/projects/8947/badge[]
 
 2+^| image:https://www.open-circle.ch/wp-content/uploads/Hitobito-Logo-768x480.png[Hitobito,256]
 
