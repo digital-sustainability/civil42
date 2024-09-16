@@ -1,0 +1,29 @@
+= syprof
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+syprof - Die Software für Stiftungen, Hilfswerke, Verbände & NPOs: Gestalten Sie Ihre Stiftungsarbeit zukunftssicher - mit der Standardsoftware für Stiftungen & Verbände
+ 
+Die Arbeit von Stiftungen und stiftungsähnlichen Organisationen wird immer komplexer und bringt viele Herausforderungen mit sich. Die Systemgruppe unterstützt Sie dabei mit syprof. Mit syprof verwalten Sie den gesamten Prozess – von der Anfrage über den Antrag bis zur Zahlung – nahtlos und effizient.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://image.jimcdn.com/app/cms/image/transf/dimension=225x10000:format=jpg/path/s5771f5b0a5c7e222/image/i7e7392007c96d006/version/1650361554/syprof-software-für-stiftungen-hilfswerke-und-verbände.jpg[syprof,256]
+
+
+| URL 
+| https://www.systemgruppe.de/syprof/
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

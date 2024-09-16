@@ -21,7 +21,8 @@ Vereinssoftware, die Spass macht und deine Aufgabe vereinfacht. Für Vereinsverw
 | https://www.webling.ch
 
 | Referenzen
-| https://vitamineb.ch/digital/
+| * https://vitamineb.ch/digital/ +
+ * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
 |===
 
 == Einstufung 🔴

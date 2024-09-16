@@ -1,0 +1,27 @@
+= 1CRM Verbandslösung
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Alles in einem System: Wagen Sie den nächsten Schritt und erhalten Sie mehr Weitblick über Ihren Verband. Verwalten Sie Mitglieder, Seminare sowie weitere Unternehmen in nur einem System.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://1crm-system.de/wp-content/uploads/crm-software-1crm.svg[1CRM,256]
+
+
+| URL 
+| https://1crm-system.de/verbandssoftware/
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

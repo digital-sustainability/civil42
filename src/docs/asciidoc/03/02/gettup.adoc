@@ -1,0 +1,27 @@
+= gettup
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Mitgliederverwaltung und Buchhaltung für Vereine
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.gettup.de/user/themes/gettup/img/Gettup_Logo-horizontal_positiv.svg[gettup,256]
+
+
+| URL 
+| https://www.gettup.de
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

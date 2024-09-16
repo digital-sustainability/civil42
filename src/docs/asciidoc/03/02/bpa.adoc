@@ -1,0 +1,27 @@
+= BPA
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Unsere Branchensoftware bildet Geschäftsprozesse und Arbeitsabläufe dieser Organisationen optimal ab. Ziel unseres Handelns ist die effiziente und qualitativ hochwertige Unterstützung unserer Kunden.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.gutes-wissen.org/wp-content/uploads/jet-form-builder/2c1f8c802b750e18b85b37c7271f3720//logo_bpa_rgb_1-300x90.jpg[BPA,256]
+
+
+| URL 
+| https://www.bpasolutions.at
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

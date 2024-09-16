@@ -24,7 +24,9 @@ Mit der Vereinssoftware ClubDesk habt ihr eure Vereinsverwaltung ganz einfach im
 | reeweb ag
 
 | Referenzen
-| https://vitamineb.ch/digital/
+| * https://vitamineb.ch/digital/ +
+ * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+
 |===
 
 == Einstufung 🔴

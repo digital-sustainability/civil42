@@ -1,0 +1,27 @@
+= cobra CRM
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Unser geprüftes cobra CRM-System setzt alle Anforderungen der DSGVO zuverlässig um. Sie können Kundendaten rechtssicher erheben, speichern, bearbeiten oder löschen. Mit cobra CRM 2020 bewegen Sie sich mit Ihrem CRM-System DATENSCHUTZ-ready auf der sicheren Seite!
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.cobra.de/typo3conf/ext/cawd_template/Resources/Public/Images/cobra_logo_2017_b.png[cobra CRM,256]
+
+
+| URL 
+| https://www.cobra.de
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

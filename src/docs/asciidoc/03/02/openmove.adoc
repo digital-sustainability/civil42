@@ -1,0 +1,27 @@
+= OpenMOVE
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Software für Mitgliedsverwaltung, Zuwendungen und Fundraising für gemeinnützige Vereine und NGOs
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.openmove.net/wp-content/uploads/2023/03/cropped-Logo_MOVE_4c_klein.png[OpenMOVE,256]
+
+
+| URL 
+| https://www.openmove.net
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

@@ -1,0 +1,27 @@
+= eMemberline
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Mit unserer Vereins- und Verbandssoftware eMemberline profitieren Sie von 45-jähriger Unternehmenserfahrung in der Branche und der praktischen Erfahrung unserer Kunden, denn viele Wünsche sind in unsere Software eingeflossen. Unsere Software ist zukunftsweisend, denn sie ist webbasiert und cloudbetrieben und erlaubt damit den Zugriff beliebig vieler Nutzer über einen Webbrowser von verschiedenen Orten zu jeder Zeit auf die Vereinsdaten. Dabei kann natürlich jeder Nutzer feste Zugriffsrechte auf bestimmte Programm-, Funktions- und Datenbereiche haben.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www02.ljn.de/ljn/Bilder/imemberlinelogo.png[eMemberline,256]
+
+
+| URL 
+| https://www.orgarevi.de
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

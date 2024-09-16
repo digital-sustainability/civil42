@@ -1,0 +1,27 @@
+= VereinOnline.org
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Ideal für Vereine, Verbände, Interessensgemeinschaften, Clubs und Parteien, die Ihre Veranstaltungen und Mitglieder online verwalten möchten.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.vereinonline.org/logo.png[VereinOnline,256]
+
+
+| URL 
+| https://www.vereinonline.org
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

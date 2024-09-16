@@ -1,0 +1,27 @@
+= MICROPLAN CRM
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Eine Brücke von Microsoft Office® in die Open-Source-Welt. Das MICROPLAN TEAM betreibt eine Open-Source-Plattform, in die Sie Ihre Microsoft-Lizenzen einbringen können. Je nach Bedarf integrieren wir für Sie Wordpress, Nextcloud, Paperless ngx und andere freie Software zu einem System aus einem Guß hinzu.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+2+^| image:https://www.microplan-crm.de/assets/images/microplan-logo-endversion-711x100.png[MICROPLAN CRM,256]
+
+
+| URL 
+| https://www.microplan-crm.de
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🟡

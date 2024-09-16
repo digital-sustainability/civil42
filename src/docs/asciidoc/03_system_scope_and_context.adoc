@@ -7,6 +7,8 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 :leveloffset: +3
 
+include::03/02/1crm_verbandsloesung.adoc[]
+
 include::03/02/7zip.adoc[]
 
 include::03/02/adobe_acrobat.adoc[]
@@ -18,6 +20,8 @@ include::03/02/adobe_digitaleditions.adoc[]
 include::03/02/adobe_reader.adoc[]
 
 include::03/02/airmeet.adoc[]
+
+include::03/02/alphaOfficePro.adoc[]
 
 include::03/02/anchor.fm.adoc[]
 
@@ -37,11 +41,17 @@ include::03/02/bluejeansmeetings.adoc[]
 
 include::03/02/box.adoc[]
 
+include::03/02/bpa.adoc[]
+
 include::03/02/butter.adoc[]
 
 include::03/02/calibreweb.adoc[]
 
 include::03/02/canva.adoc[]
+
+include::03/02/cas_networks.adoc[]
+
+include::03/02/civicrm.adoc[]
 
 include::03/02/clawPDF.adoc[]
 
@@ -49,7 +59,11 @@ include::03/02/clickup.adoc[]
 
 include::03/02/clubdesk.adoc[]
 
+include::03/02/cobracrm.adoc[]
+
 include::03/02/collabora.adoc[]
+
+include::03/02/combitcrm.adoc[]
 
 include::03/02/cryptpad.adoc[]
 
@@ -61,7 +75,15 @@ include::03/02/drawio.adoc[]
 
 include::03/02/easyretro.adoc[]
 
+include::03/02/easyverein.adoc[]
+
+include::03/02/ecoplancrm.adoc[]
+
 include::03/02/element.adoc[]
+
+include::03/02/ememberline.adoc[]
+
+include::03/02/enterbrain.adoc[]
 
 include::03/02/evagic.adoc[]
 
@@ -79,7 +101,13 @@ include::03/02/freeplane.adoc[]
 
 include::03/02/freshrss.adoc[]
 
+include::03/02/geteco_conversa.adoc[]
+
+include::03/02/gettup.adoc[]
+
 include::03/02/gimp.adoc[]
+
+include::03/02/goodnpo.adoc[]
 
 include::03/02/google_docs.adoc[]
 
@@ -96,6 +124,10 @@ include::03/02/google_kalender.adoc[]
 include::03/02/gotomeeting.adoc[]
 
 include::03/02/greenshot.adoc[]
+
+include::03/02/gruen_imb_lassie.adoc[]
+
+include::03/02/gruen_mfplus.adoc[]
 
 include::03/02/gumb.adoc[]
 
@@ -118,6 +150,8 @@ include::03/02/jitsi.adoc[]
 include::03/02/joplin.adoc[]
 
 include::03/02/kahoot.adoc[]
+
+include::03/02/kaleido.adoc[]
 
 include::03/02/keepassxc.adoc[]
 
@@ -146,6 +180,8 @@ include::03/02/mattermost.adoc[]
 include::03/02/matrix.adoc[]
 
 include::03/02/mentimeter.adoc[]
+
+include::03/02/microplancrm.adoc[]
 
 include::03/02/microsoft_365.adoc[]
 
@@ -207,15 +243,21 @@ include::03/02/nextcloud.adoc[]
 
 include::03/02/nomacs.adoc[]
 
+include::03/02/now_crm.adoc[]
+
 include::03/02/nuudel.adoc[]
 
 include::03/02/obs.adoc[]
+
+include::03/02/openmove.adoc[]
 
 include::03/02/openproject.adoc[]
 
 include::03/02/openshot.adoc[]
 
 include::03/02/openxchange.adoc[]
+
+include::03/02/optigem.adoc[]
 
 include::03/02/owncloud.adoc[]
 
@@ -241,6 +283,8 @@ include::03/02/sanboard.adoc[]
 
 include::03/02/scribus.adoc[]
 
+include::03/02/sextant.adoc[]
+
 include::03/02/sharex.adoc[]
 
 include::03/02/skillhub.adoc[]
@@ -257,6 +301,8 @@ include::03/02/surveymonkey.adoc[]
 
 include::03/02/swisstransfer.adoc[]
 
+include::03/02/syprof.adoc[]
+
 include::03/02/teamteam.adoc[]
 
 include::03/02/teamup.adoc[]
@@ -269,7 +315,17 @@ include::03/02/typo.adoc[]
 
 include::03/02/ucs.adoc[]
 
+include::03/02/unitop_verband.adoc[]
+
+include::03/02/unsere-vereinssoftware.adoc[]
+
 include::03/02/verapdf.adoc[]
+
+include::03/02/verband_online-org.adoc[]
+
+include::03/02/verbandsmanager.adoc[]
+
+include::03/02/verein_online-org.adoc[]
 
 include::03/02/verein-web.adoc[]
 
@@ -358,10 +414,38 @@ include::03/02/zoom.adoc[]
 
 == Vereinssoftware
 
+=== <<_1crm_verbandslösung>>
+=== <<_alphaoffice_pro>>
+=== <<_bpa>>
+=== <<_cas_networks>>
+=== <<_civicrm>>
 === <<_clubdesk>>
+=== <<_cobra_crm>>
+=== <<_combit_crm>>
+=== <<_easyverein>>
+=== <<_ecoplan_crm>>
+=== <<_ememberline>>
+=== <<_enterbrain>>
 === <<_insieme>>
 === <<_fairgate>>
+=== <<_geteco_conversa>>
+=== <<_goodnpo>>
+=== <<_grün_imb_lassie>>
+=== <<_grün_mfplus>>
+=== <<_hitobito>>
+=== <<_kaleido>>
 === <<_localclubs>>
+=== <<_microplan_crm>>
+=== <<_nowcrm>>
+=== <<_openmove>>
+=== <<_optigem>>
+=== <<_sextant>>
+=== <<_syprof>>
+=== <<_unitop_verband>>
+=== <<_unsere_vereinssoftware>>
+=== <<_verbandonline_org>>
+=== <<_sewobe_verbandsmanager>>
+=== <<_vereinonline_org>>
 === <<_webling>>
 === <<_vvv_ch>>
 === <<_verein_web>>

@@ -1,0 +1,25 @@
+= Kaleido
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Unser Branchenwissen haben wir in unsere neuste Softwarelösung eingebracht: Kaleido. Deren Kernstück ist die NPO-spezifische Integrationsplattform. Sie ermöglicht Kund*innen, ihre Fachapplikationen zu einer cloudbasierten Fundraisinglösung zu vereinen. Das Besondere daran: unser bewährtes, branchenspezifisches Datenmodell für den DACH-Raum.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+
+| URL 
+| https://www.ant-informatik.ch/produkte#kaleido
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

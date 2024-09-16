@@ -1,0 +1,27 @@
+= ENTERBRAIN
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Mit unserer Kommunikations- und Fundraising-Software Enterbrain 2.0 haben wir ein multifunktionales Tool konzipiert, das speziell auf Hilfsorganisationen, Verbände, Kammern und Vereine ausgerichtet ist. Doch Enterbrain ist noch viel mehr – und bietet nicht nur individuell zugeschnittene Software-Lösungen aus einer Hand. Unser erfahrenes Service-Team übernimmt mit großer Empathie und Leidenschaft auf Wunsch auch alle administrativen Aufgaben und bietet vielfältige Service-Dienstleistungen rund um unsere Software-Module an.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://enterbrain.gmbh/wp-content/uploads/logo.png[ENTERBRAIN,256]
+
+
+| URL 
+| https://enterbrain.gmbh
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

@@ -1,0 +1,29 @@
+= SEWOBE VerbandsMANAGER
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Die Verbandssoftware „VerbandsMANAGER“ ist die Lösung! 1000 Mitglieder oder 1 Millionen – wir freuen uns auf Ihre Organisation und Ihre Anforderungen an unser Team.
+
+SEWOBE entwickelt seit über 20 Jahren die Online – Verbandssoftware für anspruchsvolle Organisationen. Wir digitalisieren und automatisieren komplexe Prozesse und sind die erste Trusted Cloud zertifizierte Lösung. Zudem sind wir seit August 2023 auch IDW PS 880 zertifiziert.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.sewobe.de/wp-content/themes/sewobe/assets/svgs/verbandsmanager.svg[VerbandsMANAGER,256]
+
+
+| URL 
+| https://www.sewobe.de/verbandssoftware/
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

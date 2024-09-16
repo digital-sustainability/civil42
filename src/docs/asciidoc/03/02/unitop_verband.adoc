@@ -1,0 +1,24 @@
+= unitop Verband
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Mitgliederverwaltung und Buchhaltung für Vereine
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+| URL 
+| https://www.gob.de/verband
+
+| Referenzen
+|  * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

@@ -1,0 +1,29 @@
+= ECOPLAN CRM
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Der Fokus von ECOPLAN CRM liegt auf der transparenten und zentralen Darstellung aller Kontaktdaten Ihrer Organisation und Ihrer Servicegesellschaften. In der zentralen Datenbasis sind alle wichtigen und relevanten Informationen über Ihre Ansprechpartner und Kontakte verfügbar. Wenn die Wünsche und Besonderheiten eines jeden Kontaktes in der ECOPLAN CRM Software erfasst sind, können Sie auf dessen Anliegen individuell und zielgerichtet eingehen. Die erfolgreiche Bindung Ihrer Organisation zu Ihren Kontaktpersonen steht dabei im Vordergrund.
+
+Unsere moderne und vielseitige Software bietet ein strukturiertes und organisationsweites Adress-, Kontakt-, Mitglieder- und Aktivitätenmanagement. Hiermit wird die interne und die externe Kommunikation maßgeblich vereinfacht – und die Datenqualität enorm steigert.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.ecoplan-crm.de/wp-content/uploads/2017/08/logo_ecoplan.png[ECOPLAN CRM,256]
+
+
+| URL 
+| https://www.ecoplan-crm.de
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

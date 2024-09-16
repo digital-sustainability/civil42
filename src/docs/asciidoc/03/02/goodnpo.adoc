@@ -1,0 +1,29 @@
+= goodNPO
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Mit goodNPO hat Goodvantage eine auf Microsoft Dynamics 365 Sales CRM basierte Fundraising-Software für Non-Profit-Organisationen in der Schweiz erstellt.
+
+goodNPO kann ohne zusätzliche Software verwendet werden: Online-Payment, automatisierte Bank-Schnittstellen, Brief- und E-Mail-Korrespondenzen inkl. QR-Bill ist alles out-of-the-box möglich.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://goodvanta.ge/img/goodnpo.svg[goodNPO,256]
+
+
+| URL 
+| https://goodvanta.ge
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

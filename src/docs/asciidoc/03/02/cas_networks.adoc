@@ -1,0 +1,27 @@
+= CAS netWorks
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Effiziente Mitgliederverwaltung von Non-Profit-Organisationen dank unserer Software: über 30 Jahre Erfahrung - individualisierbar - mobil : Jetzt informieren!
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.acp-gruppe.com/hs-fs/hubfs/cas_networks-1.png?width=1600&height=600&name=cas_networks-1.png[CAS netWorks,256]
+
+
+| URL 
+| https://www.cas-communities.de
+
+| Referenzen
+|  * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

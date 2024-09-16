@@ -1,0 +1,25 @@
+= SEXTANT
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+SEXTANT ist der Alleskönner unter den Softwareprodukten für die Non-Profit-Welt: Deine Organisation möchte Direktmailings selektieren, Telemarketingaktionen umsetzen, das Major Donor- und Erbschaftsfundraising aufbauen und gleichzeitig zweckgebundene Spenden verwalten? Kein Problem für SEXTANT: Steuere und setze mit der On-Premise-Software dein Fundraising-, Customer-Relation- und Projekt-Management um.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+
+| URL 
+| https://www.ant-informatik.ch/produkte#sextant
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

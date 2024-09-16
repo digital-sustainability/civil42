@@ -1,0 +1,27 @@
+= GRÜN IMB LASSIE
+
+== Beschreibung
+
+[source,website,subs="+normal"]
+----
+Für kleine und mittlere Vereine, Stiftungen und andere Organisationen in Deutschland gibt es GRÜN IMB LASSIE, die optimale Online-Spendenverwaltung mit vielen Funktionen und begleitenden Services.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://www.gruen.net/softwaregroup/uploads/lassie-uai-516x290.jpg[LASSIE,256]
+
+
+| URL 
+| https://lassie.gruenalpha.net
+
+| Referenzen
+| * https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen[fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024]
+|===
+
+== Einstufung 🔴

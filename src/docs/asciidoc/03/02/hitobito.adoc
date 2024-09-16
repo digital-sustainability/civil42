@@ -31,7 +31,7 @@ image::https://www.bestpractices.dev/projects/8947/badge[]
 | link:http://puzzle.ch[Puzzle ITC]
 
 | Referenzen
-| 
+|  * fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2023
 |===
 
 == Einstufung 🟢
