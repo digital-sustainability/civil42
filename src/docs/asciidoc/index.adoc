@@ -10,9 +10,9 @@ include::config.adoc[]
 = image:https://upload.wikimedia.org/wikipedia/commons/2/25/Berner_Fachhochschule_Logo_small.svg[BFH,64] Digitale Souveränität von Vereinen - civil42
 Berner Fachhochschule BFH | Wirtschaft | Institut Public Sector Transformation
 Dipl.-Inf. (FH) Markus Tiede
-:revnumber: v0.1.0
+:revnumber: v0.9.0
 :revdate: {docdate}
-:revremark: Entwurf
+:revremark: Review
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
 :toclevels: 3
@@ -34,20 +34,6 @@ endif::backend-html5[]
 
 
 include::about-arc42.adoc[]
-
-// horizontal line
-***
-
-[role="arc42help"]
-****
-[NOTE]
-====
-Diese Version des Templates enthält Hilfen und Erläuterungen.
-Sie dient der Einarbeitung in arc42 sowie dem Verständnis der Konzepte.
-Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
-====
-****
-
 
 // numbering from here on
 :numbered:
