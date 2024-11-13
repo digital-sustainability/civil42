@@ -9,12 +9,40 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 ===== Bekanntheitsgrad
 
-Das Konzept "Digitale Souveränität" ist bei unserem Verein bekannt:
+[source,shell]
+----
+include::02/Q0102-1.output[]
+---
+1 : Trifft gar nicht zu
+10: Trifft vollständig zu
+----
 
 ===== Relevantheitsgrad
 
-Das Konzept "Digitale Souveränität" ist bei unserem Verein als relevant eingestuft:
+[source,shell]
+----
+include::02/Q0102-2.output[]
+---
+1 : Trifft gar nicht zu
+10: Trifft vollständig zu
+----
 
 ===== Im Alltag gelebt
 
-"Digitale Souveränität" wird in unserem Verein im Alltag beachtet und gelebt:
+[source,shell]
+----
+include::02/Q0102-3.output[]
+---
+1 : Trifft gar nicht zu
+10: Trifft vollständig zu
+----
+
+===== Empfehlungen bekannt?
+
+[source,shell]
+----
+include::02/Q0103.output[]
+
+---
+
+----
