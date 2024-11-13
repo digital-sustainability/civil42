@@ -3,23 +3,18 @@ ifndef::imagesdir[:imagesdir: ../images]
 [[section-architecture-constraints]]
 == Randbedingungen
 
-[role="arc42help"]
-****
-.Inhalt
-Randbedingungen und Vorgaben, die ihre Freiheiten bezüglich Entwurf, Implementierung oder Ihres Entwicklungsprozesses einschränken.
-Diese Randbedingungen gelten manchmal organisations- oder firmenweit über die Grenzen einzelner Systeme hinweg.
+=== Umfrage in der Schweiz zum Thema "Digitale Souveränität von Vereinen"
 
-.Motivation
-Für eine tragfähige Architektur sollten Sie genau wissen, wo Ihre Freiheitsgrade bezüglich der Entwurfsentscheidungen liegen und wo Sie Randbedingungen beachten müssen.
-Sie können Randbedingungen vielleicht noch verhandeln, zunächst sind sie aber da.
+==== Selbsteinschätzung zur Verbreitung und Anwendung
 
-.Form
-Einfache Tabellen der Randbedingungen mit Erläuterungen.
-Bei Bedarf unterscheiden Sie technische, organisatorische und politische Randbedingungen oder übergreifende Konventionen (beispielsweise Programmier- oder Versionierungsrichtlinien, Dokumentations- oder Namenskonvention).
+===== Bekanntheitsgrad
 
+Das Konzept "Digitale Souveränität" ist bei unserem Verein bekannt:
 
-.Weiterführende Informationen
+===== Relevantheitsgrad
 
-Siehe https://docs.arc42.org/section-2/[Randbedingungen] in der online-Dokumentation (auf Englisch!).
+Das Konzept "Digitale Souveränität" ist bei unserem Verein als relevant eingestuft:
 
-****
+===== Im Alltag gelebt
+
+"Digitale Souveränität" wird in unserem Verein im Alltag beachtet und gelebt:
