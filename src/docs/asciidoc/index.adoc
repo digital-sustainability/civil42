@@ -90,12 +90,12 @@ include::09_architecture_decisions.adoc[]
 
 <<<<
 // 10. Qualitätsanforderungen
-include::10_quality_requirements.adoc[]
+// include::10_quality_requirements.adoc[]
 
 <<<<
 // 11. Risiken
-include::11_technical_risks.adoc[]
+// include::11_technical_risks.adoc[]
 
 <<<<
 // 12. Glossar
-include::12_glossary.adoc[]
+// include::12_glossary.adoc[]
