@@ -42,7 +42,102 @@ include::02/Q0102-3.output[]
 [source,shell]
 ----
 include::02/Q0103.output[]
+----
 
----
+===== Selbstauskunft zum Grad der "Digitalisierung"
 
+[source,shell]
+----
+include::02/Q0104-1.output[]
+----
+
+===== Tools im Bereich "Kommunizieren"
+
+[source,shell]
+----
+include::02/Q0104-2.output[]
+----
+
+===== Tools im Bereich "Arbeiten planen"
+
+[source,shell]
+----
+include::02/Q0104-3.output[]
+----
+
+===== Tools im Bereich "Vereinsaktivitaeten organisieren"
+
+[source,shell]
+----
+include::02/Q0104-4.output[]
+----
+
+===== Tools im Bereich "Termine planen"
+
+[source,shell]
+----
+include::02/Q0104-5.output[]
+----
+
+===== Tools im Bereich "Dokumente gemeinsam bearbeiten"
+
+[source,shell]
+----
+include::02/Q0104-6.output[]
+----
+
+===== Tools im Bereich "Vereinssoftware"
+
+[source,shell]
+----
+include::02/Q0104-7.output[]
+----
+
+===== Tools im Bereich "Clouds Datenablage"
+
+[source,shell]
+----
+include::02/Q0104-8.output[]
+----
+
+===== Tools im Bereich "Projektmanagement"
+
+[source,shell]
+----
+include::02/Q0104-9.output[]
+----
+
+===== Tools im Bereich "Quiz Umfragen Abstimmungen"
+
+[source,shell]
+----
+include::02/Q0104-10.output[]
+----
+
+===== Tools im Bereich "Ideen Sammeln Kreativ gestalten"
+
+[source,shell]
+----
+include::02/Q0104-11.output[]
+----
+
+===== Tools im Bereich "Videos Designs und Podcasts kreieren"
+
+[source,shell]
+----
+include::02/Q0104-12.output[]
+----
+
+===== Tools im Bereich "Video Konferenzen Online Meetings
+
+[source,shell]
+----
+include::02/Q0104-13.output[]
+----
+
+===== Tools im Bereich "Websites Video Tutorials Unterlagen"
+
+[source,shell]
+----
+include::02/Q0104-14.output[]
 ----
