@@ -14,7 +14,7 @@ cat Q0102-1-raw.csv | csvsql - --query "SELECT bekannt,COUNT(*) FROM stdin WHERE
 ```
 
 ```
-cat Q0102-1.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein sehr... bekannt" --xlabel "n=$(wc -l < Q0102-1-raw.csv)" > Q0102-1.output
+cat Q0102-1.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein... bekannt" --xlabel "n=$(wc -l < Q0102-1-raw.csv)" > Q0102-1.output
 ```
 
 ## Q0102-2
@@ -28,7 +28,7 @@ cat Q0102-2-raw.csv | csvsql - --query "SELECT relevant,COUNT(*) FROM stdin WHER
 ```
 
 ```
-cat Q0102-2.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein sehr... relevant" --xlabel "n=$(wc -l < Q0102-2-raw.csv)" > Q0102-2.output
+cat Q0102-2.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein... relevant" --xlabel "n=$(wc -l < Q0102-2-raw.csv)" > Q0102-2.output
 ```
 
 ## Q0102-3
@@ -42,7 +42,7 @@ cat Q0102-3-raw.csv | csvsql - --query "SELECT angewandt,COUNT(*) FROM stdin WHE
 ```
 
 ```
-cat Q0102-3.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein sehr... angewandt" --xlabel "n=$(wc -l < Q0102-3-raw.csv)" > Q0102-3.output
+cat Q0102-3.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein... angewandt" --xlabel "n=$(wc -l < Q0102-3-raw.csv)" > Q0102-3.output
 ```
 
 ## Q0103
