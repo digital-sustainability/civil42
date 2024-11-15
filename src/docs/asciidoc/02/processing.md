@@ -44,7 +44,6 @@ cat Q0102-3-raw.csv | csvsql - --query "SELECT angewandt,COUNT(*) FROM stdin WHE
 ```
 cat Q0102-3.csv | uplot bar -H -d ',' -o -t "Das Konzept 'Digitale Souveränität' ist bei unserem Verein sehr... angewandt" --xlabel "n=$(wc -l < Q0102-3-raw.csv)" > Q0102-3.output
 ```
-```
 
 ## Q0103
 
@@ -105,6 +104,10 @@ cat Q0104-2.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-2.csv)" >
 
 ```
 csvcut -x -c 13 results/survey.csv > Q0104-3-raw.csv
+```
+
+```
+cat Q0104-3.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-3.csv)" > Q0104-3.output
 ```
 
 ## Q0104-4
