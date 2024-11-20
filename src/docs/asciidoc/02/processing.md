@@ -245,3 +245,39 @@ manual separation & term unify
 ```
 cat Q0104-14.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-14.csv)" > Q0104-14.output
 ```
+
+## Q0201
+
+```
+csvcut -x -c 38 results/survey.csv > Q0201-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0201.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0201.csv)" > Q0201.output
+```
+
+## Q0202
+
+```
+csvcut -x -c 39 results/survey.csv > Q0202-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0202.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0202.csv)" > Q0202.output
+```
+
+## Q0301
+
+```
+csvcut -x -c 40 results/survey.csv > Q0301-raw.csv
+```
+
+## Q0301
+
+```
+csvcut -x -c 41 results/survey.csv > Q0302-raw.csv
+```
