@@ -14,7 +14,7 @@ Präsentiere und Verwalte deinen Verein in deiner Gemeinde und darüber hinaus. 
 | Typ
 | Proprietäre Software
 
-2+^| image:https://www.localclubs.ch/uploads/media/sulu-260x/06/46-logo.webp[LocalClubs,256]
+2+^| image:https://static.wixstatic.com/media/8561a4_a0bfa1fd35414800b04aeb939ec0bb03~mv2.png/v1/fill/w_168,h_112,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/46-logo-removebg-preview.png[LocalClubs,256]
 
 
 | URL 

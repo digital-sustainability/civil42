@@ -17,7 +17,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Lizenz
 | image:https://img.shields.io/github/license/obsproject/obs-studio[GitHub License]
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png[OBS,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg[OBS,256]
 
 
 | URL 

@@ -17,7 +17,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Lizenz
 | image:https://img.shields.io/github/license/laurent22/joplin[GitHub License]
 
-2+^| image:https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg[Joplin,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/0/08/Joplin-icon.svg[Joplin,256]
 
 
 | URL 
