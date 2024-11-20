@@ -141,3 +141,36 @@ include::02/Q0104-13.output[]
 ----
 include::02/Q0104-14.output[]
 ----
+
+==== Einschätzung (digitale) Prozesse & Software-Tools - mit grossem Impact
+
+===== in der internen Vereinsorganisation
+
+[source,shell]
+----
+include::02/Q0201.output[]
+----
+
+===== im Vereinsleben
+
+[source,shell]
+----
+include::02/Q0202.output[]
+----
+
+==== Einschätzung (digitale) Prozesse & Software-Tools - mit grossem Handlungsbedarf
+
+===== Wo besteht grosser Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
+
+[source,shell]
+----
+include::02/Q0301.output[]
+----
+
+===== Wo besteht grosser Handlungsbedarf einer besseren Integration von bestehenden Tools?
+
+[source,shell]
+----
+include::02/Q0302.output[]
+----
+
