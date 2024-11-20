@@ -7,7 +7,7 @@
 
 **Digitale Souveränität** von Vereinen
 
-CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/civil42/blob/main/docs/slides/2024-dinacon/content.md) - `04.05.2024`
+CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/civil42/blob/main/docs/slides/24-dinacon/content.md) - `04.05.2024`
 --
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
