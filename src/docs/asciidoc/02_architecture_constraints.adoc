@@ -44,7 +44,7 @@ include::02/Q0102-3.output[]
 include::02/Q0103.output[]
 ----
 
-===== Selbstauskunft zum Grad der "Digitalisierung"
+==== Selbstauskunft zum Grad der "Digitalisierung"
 
 [source,shell]
 ----
