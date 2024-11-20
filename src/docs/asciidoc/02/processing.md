@@ -95,6 +95,8 @@ cat Q0104-1.csv | uplot bar -H -d ',' -o -t "Digitale Tools / Prozesse kommen zu
 csvcut -x -c 11 results/survey.csv > Q0104-2-raw.csv
 ```
 
+manual separation & term unify
+
 ```
 cat Q0104-2.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-2.csv)" > Q0104-2.output
 ```
@@ -106,6 +108,8 @@ cat Q0104-2.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-2.csv)" >
 csvcut -x -c 13 results/survey.csv > Q0104-3-raw.csv
 ```
 
+manual separation & term unify
+
 ```
 cat Q0104-3.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-3.csv)" > Q0104-3.output
 ```
@@ -116,10 +120,22 @@ cat Q0104-3.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-3.csv)" >
 csvcut -x -c 15 results/survey.csv > Q0104-4-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-4.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-4.csv)" > Q0104-4.output
+```
+
 ## Q0104-5
 
 ```
 csvcut -x -c 17 results/survey.csv > Q0104-5-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0104-5.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-5.csv)" > Q0104-5.output
 ```
 
 ## Q0104-6
@@ -128,10 +144,22 @@ csvcut -x -c 17 results/survey.csv > Q0104-5-raw.csv
 csvcut -x -c 19 results/survey.csv > Q0104-6-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-6.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-6.csv)" > Q0104-6.output
+```
+
 ## Q0104-7
 
 ```
 csvcut -x -c 21 results/survey.csv > Q0104-7-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0104-7.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-7.csv)" > Q0104-7.output
 ```
 
 ## Q0104-8
@@ -140,10 +168,22 @@ csvcut -x -c 21 results/survey.csv > Q0104-7-raw.csv
 csvcut -x -c 23 results/survey.csv > Q0104-8-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-8.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-8.csv)" > Q0104-8.output
+```
+
 ## Q0104-9
 
 ```
 csvcut -x -c 25 results/survey.csv > Q0104-9-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0104-9.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-9.csv)" > Q0104-9.output
 ```
 
 ## Q0104-10
@@ -152,10 +192,22 @@ csvcut -x -c 25 results/survey.csv > Q0104-9-raw.csv
 csvcut -x -c 27 results/survey.csv > Q0104-10-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-10.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-10.csv)" > Q0104-10.output
+```
+
 ## Q0104-11
 
 ```
 csvcut -x -c 29 results/survey.csv > Q0104-11-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0104-11.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-11.csv)" > Q0104-11.output
 ```
 
 ## Q0104-12
@@ -164,14 +216,32 @@ csvcut -x -c 29 results/survey.csv > Q0104-11-raw.csv
 csvcut -x -c 31 results/survey.csv > Q0104-12-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-12.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-12.csv)" > Q0104-12.output
+```
+
 ## Q0104-13
 
 ```
 csvcut -x -c 33 results/survey.csv > Q0104-13-raw.csv
 ```
 
+manual separation & term unify
+
+```
+cat Q0104-13.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-13.csv)" > Q0104-13.output
+```
+
 ## Q0104-14
 
 ```
 csvcut -x -c 35 results/survey.csv > Q0104-14-raw.csv
+```
+
+manual separation & term unify
+
+```
+cat Q0104-14.csv | uplot count -H -d ',' -o --xlabel "n=$(wc -l < Q0104-14.csv)" > Q0104-14.output
 ```

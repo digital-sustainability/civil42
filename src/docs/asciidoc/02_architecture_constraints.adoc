@@ -128,7 +128,7 @@ include::02/Q0104-11.output[]
 include::02/Q0104-12.output[]
 ----
 
-===== Tools im Bereich "Video Konferenzen Online Meetings
+===== Tools im Bereich "Video Konferenzen Online Meetings"
 
 [source,shell]
 ----
