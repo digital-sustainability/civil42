@@ -20,9 +20,9 @@ CC-BY-4.0: [Quelle](https://github.com/digital-sustainability/civil42/blob/main/
 ```md [|1|3|5|7|]
 Einleitung ✅ und *Kontext* > 1️⃣ 
 
-Ergebnisse der *Umfrage* > 2️⃣
+Überlick zur *Umfrage* > 2️⃣
 
-Ergebnisse der *Recherche* > 3️⃣
+Einblick in die *Recherche* > 3️⃣
 
 Zusammenfassung, Referenzen, ... > 4️⃣
 ```
@@ -124,7 +124,7 @@ https://gitlab.opencode.de/bmi/opendesk/info/-/blob/main/OVERVIEW.md
 
 https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen
 --
-# [174](https://digital-sustainability.github.io/civil42/#_technischer_kontext) Lösungen
+# [174](https://digital-sustainability.github.io/civil42/#_fachlicher_kontext) Lösungen
 
  - 🔴 : 119
  - 🟡 : 2
@@ -133,7 +133,15 @@ https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-sti
 # 4️⃣ 
 
 ## Zusammenfassung
+
+Details: https://github.com/digital-sustainability/civil42
 --
+# 💡
+
+- pragmatische Lösungen / Ansätze werden genutzt
+- (alte) Technologien zT noch führend
+- Keep it simple and stupid (KISS)
+- es gibt (fast) überall gute OSS-Alternativen
 
 --
 https://github.com/LimeSurvey/
