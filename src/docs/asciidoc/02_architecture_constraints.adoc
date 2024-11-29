@@ -174,3 +174,26 @@ include::02/Q0301.output[]
 include::02/Q0302.output[]
 ----
 
+=== Studien und Referenzen
+
+==== Empfehlungen der Fachstelle für Vereine "vitamin B"
+
+Liste an Tools für die (digitale) Zusammenarbeit: https://vitamineb.ch/digital/
+
+==== Empfehlungen der Deutschen Stiftung for Engagement und Ehrenamt
+
+https://www.deutsche-stiftung-engagement-und-ehrenamt.de/opensource-tools/
+
+==== fundraiser-magazin.de - Software für Vereine, Verbände und Stiftungen im Vergleich – die Marktübersicht 2024
+
+https://web.fundraiser-magazin.de/software-marktuebersicht-vereine-verbaende-stiftungen
+
+==== Komponenten der digital souveränen Arbeitsplatzlösung openDesk
+
+https://gitlab.opencode.de/bmi/opendesk/info/-/blob/main/OVERVIEW.md#komponenten-von-opendesk
+
+==== Studien zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung
+
+Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung link:https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf[Frontend-Services].
+
+Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung link:https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-backend-services.pdf.download.pdf[Backend-Services].
