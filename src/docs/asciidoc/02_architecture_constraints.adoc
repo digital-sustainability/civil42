@@ -158,22 +158,6 @@ include::02/Q0201.output[]
 include::02/Q0202.output[]
 ----
 
-==== Einschätzung (digitale) Prozesse & Software-Tools - mit grossem Handlungsbedarf
-
-===== Wo besteht grosser Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
-
-[source,shell]
-----
-include::02/Q0301.output[]
-----
-
-===== Wo besteht grosser Handlungsbedarf einer besseren Integration von bestehenden Tools?
-
-[source,shell]
-----
-include::02/Q0302.output[]
-----
-
 === Studien und Referenzen
 
 ==== Empfehlungen der Fachstelle für Vereine "vitamin B"
