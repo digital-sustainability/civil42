@@ -5,9 +5,15 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 === Umfrage in der Schweiz zum Thema "Digitale Souveränität von Vereinen"
 
+Zwischen Q2 und Q3 2024 haben wir im Rahmen dieser Studie zufällig ausgewählte schweizer Vereine angeschrieben und um die Teilnahme an der Umfrage gebeten. Insgesamt haben 167 Vereine teilgenommen, 81 haben vollständig im Rahmen der Umfrage auf unseren Fragen geantwortet.
+
 ==== Selbsteinschätzung zur Verbreitung und Anwendung
 
 ===== Bekanntheitsgrad
+
+____
+Das Konzept "Digitale Souveränität" ist bei unserem Verein bekannt:
+____
 
 [source,shell]
 ----
@@ -19,6 +25,10 @@ include::02/Q0102-1.output[]
 
 ===== Relevantheitsgrad
 
+____
+Das Konzept "Digitale Souveränität" wird bei unserem Verein als relevant eingestuft:
+____
+
 [source,shell]
 ----
 include::02/Q0102-2.output[]
@@ -28,6 +38,10 @@ include::02/Q0102-2.output[]
 ----
 
 ===== Im Alltag gelebt
+
+____
+Das Konzept "Digitale Souveränität" wird bei unserem Verein im Alltag gelebt:
+____
 
 [source,shell]
 ----
@@ -39,12 +53,20 @@ include::02/Q0102-3.output[]
 
 ===== Empfehlungen bekannt?
 
+----
+Nutzen Sie bereits Empfehlungen wie bspw. der Fachstelle für Vereine (vitaminB) oder der Deutschen Stiftung für Engagement und Ehrenamt (DSEE)?
+----
+
 [source,shell]
 ----
 include::02/Q0103.output[]
 ----
 
 ==== Selbstauskunft zum Grad der "Digitalisierung"
+
+----
+Selbstauskunft zum Grad der "Digitalisierung": Bitte jeden Teilbereich ankreuzen, wenn ein digitaler Prozess existiert und als Kommentar die Software / die Tools die zum Einsatz kommt bzw. kommen.
+----
 
 [source,shell]
 ----
@@ -146,12 +168,20 @@ include::02/Q0104-14.output[]
 
 ===== in der internen Vereinsorganisation
 
+----
+Welche (digitalen) Tools haben bei Ihnen in der internen Vereinsorganisation grossen Impact (und warum)?
+----
+
 [source,shell]
 ----
 include::02/Q0201.output[]
 ----
 
 ===== im Vereinsleben
+
+----
+Welche (digitalen) Tools haben bei Ihnen im Vereinsleben grossen Impact (und warum)?
+----
 
 [source,shell]
 ----
