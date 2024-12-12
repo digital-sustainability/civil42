@@ -188,6 +188,17 @@ Welche (digitalen) Tools haben bei Ihnen im Vereinsleben grossen Impact (und war
 include::02/Q0202.output[]
 ----
 
+==== Einschätzung (digitale) Prozesse & Software-Tools - mit grossem Handlungsbedarf
+
+----
+Wo besteht grosser Handlungsbedarf an einem (digitalen, automatisierten) Prozess bzw. Software?
+----
+
+----
+Wo besteht grosser Handlungsbedarf einer besseren Integration von bestehenden Tools?----
+
+Beide Fragestellungen haben ein sehr heterogenes Antwortenbild ohne klare Tendenzen aufgezeigt, einziger Trend hier ist, dass die meisten keinen akuten Handlungsbedarf benennen bzw. benennen können. 
+
 === Studien und Referenzen
 
 ==== Empfehlungen der Fachstelle für Vereine "vitamin B"
