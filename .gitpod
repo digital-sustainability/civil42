@@ -1,3 +1,7 @@
 # Command to start on workspace startup (optional)
 tasks:
   - init: mvn clean verify
+    command: python -m http.server 8000
+ports:
+    - port: 8000
+      onOpen: open-preview
