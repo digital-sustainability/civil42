@@ -33,6 +33,8 @@ include::03/02/basecamp.adoc[]
 
 include::03/02/beunity.adoc[]
 
+include::03/02/bexio.adoc[]
+
 include::03/02/bigbluebutton.adoc[]
 
 include::03/02/bitwarden.adoc[]
@@ -175,6 +177,8 @@ include::03/02/localclubs.adoc[]
 
 include::03/02/loom.adoc[]
 
+include::03/02/mailchimp.adoc[]
+
 include::03/02/manuskript.adoc[]
 
 include::03/02/mattermost.adoc[]
@@ -273,11 +277,15 @@ include::03/02/penpot.adoc[]
 
 include::03/02/polyas.adoc[]
 
+include::03/02/pretalx.adoc[]
+
 include::03/02/quizzbox.adoc[]
 
 include::03/02/rawtherapee.adoc[]
 
 include::03/02/recoll.adoc[]
+
+include::03/02/redmine.adoc[]
 
 include::03/02/rocketchat.adoc[]
 
@@ -288,6 +296,8 @@ include::03/02/scribus.adoc[]
 include::03/02/sextant.adoc[]
 
 include::03/02/sharex.adoc[]
+
+include::03/02/signal.adoc[]
 
 include::03/02/skillhub.adoc[]
 
@@ -306,6 +316,8 @@ include::03/02/swisstransfer.adoc[]
 include::03/02/syprof.adoc[]
 
 include::03/02/teamteam.adoc[]
+
+include::03/02/threema.adoc[]
 
 include::03/02/teamup.adoc[]
 

@@ -1,0 +1,27 @@
+= Bexio
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+Leicht, effizient und digital – erledigen Sie Ihre gesamte KMU-Administration einfach aus einer Hand: Kontaktverwaltung, Angebots- und Rechnungsstellung, integriertes E-Banking und Projektmanagement, inkl. Zeiterfassung. Die Buchhaltung läuft im Hintergrund und alles wird automatisch korrekt verbucht.
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Proprietäre Software
+
+2+^| image:https://cdn.bexio.com/img/c/l/bexio.svg[Bexio,256]
+
+
+| URL 
+| https://www.bexio.com
+
+| Referenzen
+| * Feedback der civil42-Umfrage
+|===
+
+== Einstufung 🔴

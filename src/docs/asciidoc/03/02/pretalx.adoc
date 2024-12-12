@@ -1,0 +1,31 @@
+= Pretalx
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+pretalx is a conference management software that stays with you every step of the way
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/pretalx/pretalx[GitHub License]
+
+2+^| image:https://pretalx.com/static/common/img/logo_success.a90e4d4cdb9d.svg[Pretalx,256]
+
+
+| URL 
+| https://pretalx.com
+
+
+| Referenzen
+| * Feedback der civil42-Umfrage
+|===
+
+== Einstufung 🟢
