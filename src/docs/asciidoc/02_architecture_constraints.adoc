@@ -195,7 +195,8 @@ Wo besteht grosser Handlungsbedarf an einem (digitalen, automatisierten) Prozess
 ----
 
 ----
-Wo besteht grosser Handlungsbedarf einer besseren Integration von bestehenden Tools?----
+Wo besteht grosser Handlungsbedarf einer besseren Integration von bestehenden Tools?
+----
 
 Beide Fragestellungen haben ein sehr heterogenes Antwortenbild ohne klare Tendenzen aufgezeigt, einziger Trend hier ist, dass die meisten keinen akuten Handlungsbedarf benennen bzw. benennen können. 
 
