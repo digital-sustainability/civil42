@@ -1,0 +1,30 @@
+= Indico
+
+== Beschreibung
+
+[source,Website,subs="+normal"]
+----
+The effortless open-source tool for event organisation, archival and collaboration
+----
+
+== Eigenschaften
+
+[%header%footer,cols="1,2a"]
+|===
+| Typ
+| Open Source Projekt
+
+| Lizenz
+| image:https://img.shields.io/github/license/indico/indico[GitHub License]
+
+2+^| image:https://getindico.io/img/logos/indico_bday_logo_dark.svg[Indico,256]
+
+
+| URL 
+| https://getindico.io
+
+| Referenzen
+| * Feedback der civil42-Umfrage
+|===
+
+== Einstufung 🟢

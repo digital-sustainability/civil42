@@ -139,6 +139,8 @@ include::03/02/hitobito.adoc[]
 
 include::03/02/hopin.adoc[]
 
+include::03/02/indico.adoc[]
+
 include::03/02/inkscape.adoc[]
 
 include::03/02/insieme.adoc[]
