@@ -13,8 +13,12 @@ include::08/konzept/disou.adoc[]
 
 :leveloffset: -3
 
+=== Standards
+
+:leveloffset: +3
+
 include::08/standards/iso-5230.adoc[]
 
 // include::08/standards/iso-18974.adoc[]
 
-=== Standards
+:leveloffset: -3
