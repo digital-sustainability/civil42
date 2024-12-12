@@ -1,0 +1,3 @@
+# Command to start on workspace startup (optional)
+tasks:
+  - init: mvn clean verify
