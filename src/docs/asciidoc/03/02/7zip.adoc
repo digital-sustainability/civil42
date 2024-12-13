@@ -1,4 +1,4 @@
-= Freeplane
+= 7zip
 
 == Beschreibung
 
