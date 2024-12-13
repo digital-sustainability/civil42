@@ -52,7 +52,7 @@ include::03_system_scope_and_context.adoc[]
 
 <<<<
 // 4. Lösungsstrategie
-include::04_solution_strategy.adoc[]
+// include::04_solution_strategy.adoc[]
 
 <<<<
 // 5. Bausteinsicht
