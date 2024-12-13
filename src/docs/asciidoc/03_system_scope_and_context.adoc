@@ -380,16 +380,21 @@ include::03/02/zoom.adoc[]
 == Kommunizieren und Arbeiten planen
 
 === <<_easyretro>>
+=== <<_element>>
 === <<_matrix>>
 === <<_mattermost>>
+=== <<_mailchimp>>
 === <<_microsoft_exchange>>
 === <<_microsoft_planner>>
 === <<_microsoft_skype>>
 === <<_microsoft_teams>>
 === <<_microsoft_to_do>>
+=== <<_mozilla_thunderbird>>
 === <<_open_xchange>>
 === <<_rocket_chat>>
+=== <<_signal>>
 === <<_slack>>
+=== <<_threema>>
 === <<_trello>>
 === <<_whatsapp>>
 === <<_zammad>>
@@ -402,6 +407,7 @@ include::03/02/zoom.adoc[]
 === <<_helfereinsatz>>
 === <<_klubraum>>
 === <<_konzertmeister>>
+=== <<_pretalx>>
 === <<_teamteam>>
 === <<_sanboard>>
 === <<_skillhub>>
@@ -419,17 +425,24 @@ include::03/02/zoom.adoc[]
 == Dokumente gemeinsam bearbeiten
 
 === <<_canva>>
+=== <<_clawpdf>>
+=== <<_collabora_online>>
 === <<_cryptpad>>
 === <<_evernote>>
 === <<_google_docs>>
+=== <<_libreoffice>>
+=== <<_manuskript>>
 === <<_microsoft_onenote>>
 === <<_swisstransfer>>
 === <<_wetransfer>>
+=== <<_verapdf>>
+=== <<_xwiki>>
 
 == Vereinssoftware
 
 === <<_1crm_verbandslösung>>
 === <<_alphaoffice_pro>>
+=== <<_bexio>>
 === <<_bpa>>
 === <<_cas_networks>>
 === <<_civicrm>>
@@ -469,6 +482,7 @@ include::03/02/zoom.adoc[]
 === <<_adobe_cloud>>
 === <<_box>>
 === <<_cryptpad>>
+=== <<_calibre_web>>
 === <<_dropbox>>
 === <<_kdrive>>
 === <<_microsoft_onedrive>>
@@ -480,6 +494,7 @@ include::03/02/zoom.adoc[]
 === Identitäten und Passwörter
 
 === <<_bitwarden>>
+=== <<_keepassxc>>
 === <<_microsoft_active_directory>>
 === <<_univention_corporate_server>>
 
@@ -489,6 +504,8 @@ include::03/02/zoom.adoc[]
 === <<_basecamp>>
 === <<_clickup>>
 === <<_monday>>
+=== <<_openproject>>
+=== <<_redmine>>
 
 = Digitale Inhalte erstellen
 
@@ -511,7 +528,9 @@ include::03/02/zoom.adoc[]
 == Ideen sammeln & kreativ gestalten
 
 === <<_flinga>>
+=== <<_freeplane>>
 === <<_google_jamboard>>
+=== <<_joplin>>
 === <<_milanote>>
 === <<_miro>>
 === <<_mindmeister>>
@@ -523,11 +542,16 @@ include::03/02/zoom.adoc[]
 === <<_anchor_fm>>
 === <<_canva>>
 === <<_draw_io>>
+=== <<_inkscape>>
 === <<_gimp>>
 === <<_greenshot>>
 === <<_loom>>
+=== <<_krita>>
+=== <<_penpot>>
 === <<_openshot>>
 === <<_obs_studio>>
+=== <<_rawtherapee>>
+=== <<_sharex>>
 === <<_vlc>>
 
 = Video-Konferenzen & Online-Meetings
