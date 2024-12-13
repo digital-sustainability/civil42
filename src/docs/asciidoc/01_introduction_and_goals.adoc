@@ -36,3 +36,8 @@ Aufgrund der Fokussierung auf die "Digitale Souveräntität" wurden folgende dre
 | link:https://quality.arc42.org/qualities/maintainability[maintainability]
 
 |===
+
+Hinsichtlich dieser priorisierten Qualitätsziele stufen wir
+ - proprietäre Software als 🔴
+ - gehostetes OSS als 🟡
+ - OSS als 🟢 ein.
