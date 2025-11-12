@@ -9,7 +9,7 @@ include::config.adoc[]
 
 = image:https://upload.wikimedia.org/wikipedia/commons/2/25/Berner_Fachhochschule_Logo_small.svg[BFH,64] Digitale Souveränität von Vereinen - civil42
 Berner Fachhochschule BFH | Wirtschaft | Institut Public Sector Transformation | Dipl.-Inf. Markus Tiede <markus.tiede@bfh.ch>
-:revnumber: v1.0.0
+:revnumber: v1.0.1
 :revdate: {docdate}
 :revremark: Review
 // toc-title definition MUST follow document title without blank line!
