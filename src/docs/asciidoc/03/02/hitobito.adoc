@@ -21,7 +21,7 @@ Hitobito ist die webbasierte Open Source Lösung zur modernen und effizienten Ve
 | [#img-hitobito-badge,link=https://www.bestpractices.dev/projects/8947] 
 image::https://www.bestpractices.dev/projects/8947/badge[]
 
-2+^| image:https://www.open-circle.ch/wp-content/uploads/Hitobito-Logo-768x480.png[Hitobito,256]
+2+^| image:https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2bb447e1-89e0-4829-9532-0dca02e4fe91.png[Hitobito,256]
 
 
 | URL 

@@ -14,7 +14,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg[Microsoft Access,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Office_Access_%282025-present%29.svg[Microsoft Access,256]
 
 
 | URL 

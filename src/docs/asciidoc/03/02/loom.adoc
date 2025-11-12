@@ -14,7 +14,7 @@ Easily record and share AI-powered video messages with your teammates and custom
 | Typ
 | Proprietäre Software
 
-2+^| image:https://static-00.iconduck.com/assets.00/loom-icon-2048x618-nexm5j44.png[Loom,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/4/40/LOOM-logo.png[Loom,256]
 
 
 | URL 

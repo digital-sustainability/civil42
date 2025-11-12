@@ -17,7 +17,7 @@ Explore for innovative virtual offices and remote event solutions. Boost collabo
 | Lizenz
 | image:https://img.shields.io/github/license/workadventure/workadventure[GitHub License]
 
-2+^| image:https://raw.githubusercontent.com/workadventure/workadventure/develop/README-LOGO.svg[WorkAdventure,256]
+2+^| image:https://blog.workadventu.re/images/general/logo-og.png[WorkAdventure,256]
 
 
 | URL 

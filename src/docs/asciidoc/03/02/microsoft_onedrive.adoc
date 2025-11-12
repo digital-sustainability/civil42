@@ -14,7 +14,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019–present%29.svg[OneDrive,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/e/e7/Microsoft_OneDrive_Icon_%282025_-_present%29.svg[OneDrive,256]
 
 
 | URL 

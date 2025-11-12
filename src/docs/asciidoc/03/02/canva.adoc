@@ -14,7 +14,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg[Canva,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/de/c/c1/Canva_Logo_2021.svg[Canva,256]
 
 
 | URL 

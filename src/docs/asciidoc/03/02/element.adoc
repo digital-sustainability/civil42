@@ -17,7 +17,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Lizenz
 | image:https://img.shields.io/github/license/element-hq/element-web[GitHub License]
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/c/c4/Element_textlogo.svg[Element,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/f/fc/Element_logotype_%282024%29.svg[Element,256]
 
 
 | URL 

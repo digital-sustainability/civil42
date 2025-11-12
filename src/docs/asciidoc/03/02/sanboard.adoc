@@ -14,7 +14,7 @@ Sanboard bietet eine Softwarelösung für Sanitätsdienste an Veranstaltungen. V
 | Typ
 | Proprietäre Software
 
-2+^| image:https://hilfe.sanboard.ch/og.png[Sanboard,256]
+2+^| image:https://app.sanboard.ch/images/sanboard-logo-with-name.svg[Sanboard,256]
 
 
 | URL 

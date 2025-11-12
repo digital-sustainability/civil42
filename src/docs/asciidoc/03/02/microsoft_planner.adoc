@@ -14,7 +14,7 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Planner_%282019–present%29.svg[Microsoft Planner,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/d/d4/Microsoft_Planner_%282024–present%29.svg[Microsoft Planner,256]
 
 
 | URL 

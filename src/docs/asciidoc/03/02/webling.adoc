@@ -14,7 +14,7 @@ Vereinssoftware, die Spass macht und deine Aufgabe vereinfacht. Für Vereinsverw
 | Typ
 | Proprietäre Software
 
-2+^| image:https://www.webling.ch/_ipx/f_webp&s_382x100/img/logo/webling_logo.png[Webling,256]
+2+^| image:https://www.webling.ch/img/logo/webling_logo.png[Webling,256]
 
 
 | URL 

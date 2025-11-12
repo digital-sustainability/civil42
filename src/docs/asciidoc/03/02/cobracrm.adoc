@@ -14,7 +14,7 @@ Unser geprüftes cobra CRM-System setzt alle Anforderungen der DSGVO zuverlässi
 | Typ
 | Proprietäre Software
 
-2+^| image:https://www.cobra.de/typo3conf/ext/cawd_template/Resources/Public/Images/cobra_logo_2017_b.png[cobra CRM,256]
+2+^| image:https://www.cobra.de/fileadmin/twitter/cobra-twitter.jpg[cobra CRM,256]
 
 
 | URL 

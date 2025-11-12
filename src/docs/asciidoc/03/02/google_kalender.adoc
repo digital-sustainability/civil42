@@ -14,14 +14,14 @@ include::https://jqp.vercel.app/api/v0?jq=.query.pages%5B%5D.extract+%7C+gsub%28
 | Typ
 | Proprietäre Software
 
-2+^| image:[,256]
+2+^| image:https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg[Google Calendar,256]
 
 
 | URL 
-| 
+| https://calendar.google.com
 
 | Anbieter 
-| 
+| Google
 
 | Referenzen
 | https://vitamineb.ch/digital/
